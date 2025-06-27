@@ -1,0 +1,156 @@
+[
+  {
+    "bbox": [
+      0.0,
+      294.73,
+      89.58,
+      510.66
+    ],
+    "score": 0.9985,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      512.97,
+      331.99,
+      597.04,
+      401.68
+    ],
+    "score": 0.9971,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      585.34,
+      338.42,
+      692.6,
+      423.94
+    ],
+    "score": 0.9961,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      651.69,
+      293.72,
+      940.92,
+      484.16
+    ],
+    "score": 0.9956,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      362.72,
+      313.43,
+      416.16,
+      362.69
+    ],
+    "score": 0.9891,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      205.17,
+      324.45,
+      253.05,
+      365.54
+    ],
+    "score": 0.9888,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      443.93,
+      332.86,
+      501.68,
+      373.89
+    ],
+    "score": 0.9843,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      295.55,
+      315.19,
+      328.7,
+      349.13
+    ],
+    "score": 0.916,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      426.98,
+      330.39,
+      459.49,
+      365.17
+    ],
+    "score": 0.9015,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      248.59,
+      330.32,
+      267.43,
+      365.36
+    ],
+    "score": 0.8367,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      256.71,
+      332.5,
+      286.53,
+      361.86
+    ],
+    "score": 0.8147,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      333.82,
+      330.57,
+      358.99,
+      344.47
+    ],
+    "score": 0.7277,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      632.04,
+      39.81,
+      1266.71,
+      498.36
+    ],
+    "score": 0.6716,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      398.21,
+      337.15,
+      417.93,
+      386.54
+    ],
+    "score": 0.5033,
+    "label": 2,
+    "label_name": "person"
+  }
+]

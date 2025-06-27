@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      5.56,
+      352.89,
+      91.72,
+      399.37
+    ],
+    "score": 0.9953,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      423.87,
+      346.05,
+      491.95,
+      394.55
+    ],
+    "score": 0.993,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      485.25,
+      347.56,
+      528.07,
+      377.83
+    ],
+    "score": 0.9915,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      86.7,
+      356.61,
+      148.45,
+      389.15
+    ],
+    "score": 0.9692,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      197.58,
+      357.84,
+      248.57,
+      381.23
+    ],
+    "score": 0.9676,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      136.98,
+      353.94,
+      183.77,
+      373.37
+    ],
+    "score": 0.9594,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      609.31,
+      318.65,
+      639.55,
+      411.96
+    ],
+    "score": 0.959,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      336.92,
+      346.17,
+      365.69,
+      369.5
+    ],
+    "score": 0.9504,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      411.2,
+      351.66,
+      430.84,
+      379.63
+    ],
+    "score": 0.941,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      291.02,
+      347.48,
+      317.82,
+      370.25
+    ],
+    "score": 0.9208,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      612.99,
+      350.98,
+      638.98,
+      421.55
+    ],
+    "score": 0.848,
+    "label": 3,
+    "label_name": "bike"
+  },
+  {
+    "bbox": [
+      0.0,
+      336.94,
+      18.14,
+      396.24
+    ],
+    "score": 0.7938,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      388.22,
+      340.95,
+      408.08,
+      353.76
+    ],
+    "score": 0.5261,
+    "label": 1,
+    "label_name": "vehicle"
+  }
+]

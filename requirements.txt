@@ -1,0 +1,16 @@
+# requirements.txt
+# Core libraries
+torch>=1.13.0
+torchvision>=0.14.0
+tqdm
+PyYAML
+
+# Optional: for image handling and annotations
+Pillow
+matplotlib
+
+# Dataset utils (if needed for BDD100K parsing)
+opencv-python
+
+# If using CUDA (match your environment)
+torchvision --extra-index-url https://download.pytorch.org/whl/cu118

@@ -1,0 +1,32 @@
+# configs/config.yaml
+
+experiment:
+  name: da_raw_bdd100k
+  output_dir: checkpoints/
+  epochs: 50
+  save_interval: 1
+
+model:
+  name: DA_RAW_FasterRCNN
+  backbone: resnet50
+  num_classes: 4
+
+optimizer:
+  name: SGD
+  lr: 0.0025
+  momentum: 0.9
+  weight_decay: 0.0005
+
+loss:
+  contrastive_temperature: 0.05
+  domain_weight: 1.0
+  contrastive_weight: 1.0
+
+data:
+  source:
+    image_dir: datasets/BDD100K/train/img
+    ann_dir: datasets/BDD100K/train/ann
+  target:
+    image_dir: C:\bbd_weather\train\rainy
+  input_size: [800, 1280]
+  batch_size: 8

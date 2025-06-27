@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      629.95,
+      362.55,
+      703.26,
+      460.25
+    ],
+    "score": 0.9985,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      810.84,
+      380.89,
+      898.6,
+      458.19
+    ],
+    "score": 0.9982,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      775.02,
+      379.2,
+      834.33,
+      443.12
+    ],
+    "score": 0.9978,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      399.87,
+      331.18,
+      644.99,
+      496.99
+    ],
+    "score": 0.9976,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      693.91,
+      384.78,
+      730.11,
+      438.32
+    ],
+    "score": 0.9958,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      929.87,
+      392.51,
+      1098.93,
+      506.12
+    ],
+    "score": 0.9956,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      0.0,
+      347.38,
+      307.14,
+      479.73
+    ],
+    "score": 0.9943,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      719.04,
+      390.8,
+      751.18,
+      425.63
+    ],
+    "score": 0.9884,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1078.46,
+      407.45,
+      1117.54,
+      520.67
+    ],
+    "score": 0.976,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      903.75,
+      406.94,
+      932.82,
+      463.93
+    ],
+    "score": 0.9729,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      754.07,
+      351.43,
+      811.07,
+      413.68
+    ],
+    "score": 0.969,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      894.63,
+      392.79,
+      927.25,
+      436.03
+    ],
+    "score": 0.7566,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      752.1,
+      393.85,
+      783.7,
+      420.21
+    ],
+    "score": 0.5295,
+    "label": 1,
+    "label_name": "vehicle"
+  }
+]

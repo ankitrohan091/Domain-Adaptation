@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      532.79,
+      380.82,
+      590.71,
+      455.81
+    ],
+    "score": 0.9993,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      666.04,
+      373.77,
+      783.26,
+      475.56
+    ],
+    "score": 0.9987,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      768.74,
+      379.71,
+      828.18,
+      445.68
+    ],
+    "score": 0.9973,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      919.78,
+      412.17,
+      1010.34,
+      472.42
+    ],
+    "score": 0.9966,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      351.98,
+      329.59,
+      552.12,
+      513.32
+    ],
+    "score": 0.9958,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      565.43,
+      347.25,
+      669.11,
+      436.64
+    ],
+    "score": 0.9939,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      847.08,
+      372.26,
+      903.61,
+      430.11
+    ],
+    "score": 0.9928,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      0.0,
+      0.0,
+      406.91,
+      548.32
+    ],
+    "score": 0.9738,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      904.94,
+      405.77,
+      945.62,
+      434.91
+    ],
+    "score": 0.9109,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      659.71,
+      373.41,
+      682.41,
+      417.84
+    ],
+    "score": 0.8221,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1184.79,
+      414.3,
+      1213.16,
+      479.56
+    ],
+    "score": 0.7301,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      829.86,
+      401.32,
+      845.8,
+      418.8
+    ],
+    "score": 0.6798,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1074.52,
+      418.62,
+      1109.9,
+      473.07
+    ],
+    "score": 0.6478,
+    "label": 3,
+    "label_name": "bike"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      656.83,
+      121.51,
+      1019.52,
+      437.04
+    ],
+    "score": 0.9972,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      318.89,
+      313.89,
+      676.66,
+      609.91
+    ],
+    "score": 0.9969,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      897.26,
+      223.22,
+      1279.93,
+      702.03
+    ],
+    "score": 0.9944,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      0.0,
+      321.12,
+      76.98,
+      374.8
+    ],
+    "score": 0.9942,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      385.03,
+      308.32,
+      425.88,
+      340.71
+    ],
+    "score": 0.9915,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      245.86,
+      303.16,
+      315.62,
+      352.29
+    ],
+    "score": 0.9912,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      603.27,
+      319.77,
+      647.41,
+      362.68
+    ],
+    "score": 0.9871,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      480.96,
+      288.48,
+      588.04,
+      321.88
+    ],
+    "score": 0.9563,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      336.96,
+      313.11,
+      374.18,
+      342.46
+    ],
+    "score": 0.9453,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1035.39,
+      297.48,
+      1056.38,
+      339.7
+    ],
+    "score": 0.8368,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      313.26,
+      318.23,
+      335.22,
+      344.95
+    ],
+    "score": 0.564,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      375.21,
+      319.82,
+      388.15,
+      338.16
+    ],
+    "score": 0.5592,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      76.97,
+      326.98,
+      86.82,
+      358.69
+    ],
+    "score": 0.5487,
+    "label": 2,
+    "label_name": "person"
+  }
+]

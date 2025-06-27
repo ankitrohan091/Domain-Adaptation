@@ -1,0 +1,403 @@
+
+--- Epoch 1: 2025-06-27 03:00:38.939652 ---
+Batch 100: Loss=0.8762, Sup=0.8762, Contrast=0.0000
+
+--- Epoch 1: 2025-06-27 03:07:19.458991 ---
+Batch 100: Loss=0.7978, Sup=0.7978, Contrast=0.0000
+Batch 200: Loss=0.9977, Sup=0.9977, Contrast=0.0000
+Batch 300: Loss=1.3409, Sup=1.0115, Contrast=0.3293
+Batch 400: Loss=1.3798, Sup=1.1488, Contrast=0.2310
+Batch 500: Loss=1.3667, Sup=1.0413, Contrast=0.3253
+Batch 600: Loss=2.0890, Sup=1.8594, Contrast=0.2296
+
+--- Epoch 2: 2025-06-27 03:17:33.248417 ---
+Batch 100: Loss=1.1424, Sup=0.9767, Contrast=0.1657
+Batch 200: Loss=1.3925, Sup=1.1848, Contrast=0.2077
+Batch 300: Loss=1.3572, Sup=1.1324, Contrast=0.2248
+Batch 400: Loss=1.5807, Sup=1.3735, Contrast=0.2072
+Batch 500: Loss=1.6245, Sup=1.4363, Contrast=0.1882
+Batch 600: Loss=1.4313, Sup=1.2604, Contrast=0.1709
+
+--- Epoch 3: 2025-06-27 03:27:53.021616 ---
+Batch 100: Loss=1.7464, Sup=1.5643, Contrast=0.1821
+Batch 200: Loss=1.2976, Sup=1.0819, Contrast=0.2157
+Batch 300: Loss=1.1200, Sup=0.9585, Contrast=0.1615
+Batch 400: Loss=1.6045, Sup=1.3759, Contrast=0.2286
+Batch 500: Loss=1.0903, Sup=0.8618, Contrast=0.2285
+Batch 600: Loss=1.2660, Sup=1.1036, Contrast=0.1624
+
+--- Epoch 4: 2025-06-27 03:38:13.329719 ---
+Batch 100: Loss=1.4562, Sup=1.1234, Contrast=0.3328
+Batch 200: Loss=1.2881, Sup=0.9960, Contrast=0.2921
+Batch 300: Loss=1.3714, Sup=1.1002, Contrast=0.2713
+Batch 400: Loss=1.1503, Sup=0.8518, Contrast=0.2985
+Batch 500: Loss=1.1569, Sup=0.8569, Contrast=0.3000
+Batch 600: Loss=1.2380, Sup=0.9451, Contrast=0.2929
+
+--- Epoch 5: 2025-06-27 03:48:34.089405 ---
+Batch 100: Loss=1.2470, Sup=1.0383, Contrast=0.2087
+Batch 200: Loss=1.3556, Sup=1.2017, Contrast=0.1538
+Batch 300: Loss=1.2184, Sup=1.0125, Contrast=0.2059
+Batch 400: Loss=1.0651, Sup=0.8632, Contrast=0.2018
+Batch 500: Loss=1.0487, Sup=0.8545, Contrast=0.1942
+Batch 600: Loss=1.2485, Sup=1.0488, Contrast=0.1997
+
+--- Epoch 6: 2025-06-27 03:58:53.999268 ---
+Batch 100: Loss=1.2755, Sup=1.0500, Contrast=0.2255
+Batch 200: Loss=1.1396, Sup=0.8835, Contrast=0.2560
+Batch 300: Loss=1.2171, Sup=1.0617, Contrast=0.1553
+Batch 400: Loss=1.3755, Sup=1.1010, Contrast=0.2745
+Batch 500: Loss=0.8478, Sup=0.6930, Contrast=0.1548
+Batch 600: Loss=0.9386, Sup=0.7732, Contrast=0.1655
+
+--- Epoch 7: 2025-06-27 04:09:15.459103 ---
+Batch 100: Loss=1.0996, Sup=0.9855, Contrast=0.1142
+Batch 200: Loss=1.1111, Sup=0.9508, Contrast=0.1603
+Batch 300: Loss=1.0466, Sup=0.9290, Contrast=0.1176
+Batch 400: Loss=0.9114, Sup=0.7889, Contrast=0.1224
+Batch 500: Loss=1.2962, Sup=1.1362, Contrast=0.1600
+Batch 600: Loss=0.9813, Sup=0.8291, Contrast=0.1522
+
+--- Epoch 8: 2025-06-27 04:19:38.050163 ---
+Batch 100: Loss=1.1537, Sup=0.7843, Contrast=0.3694
+Batch 200: Loss=1.1763, Sup=0.8713, Contrast=0.3050
+Batch 300: Loss=1.1428, Sup=0.7685, Contrast=0.3743
+Batch 400: Loss=1.4126, Sup=1.0115, Contrast=0.4011
+Batch 500: Loss=1.1706, Sup=0.8679, Contrast=0.3027
+Batch 600: Loss=1.2029, Sup=0.8865, Contrast=0.3164
+
+--- Epoch 9: 2025-06-27 04:30:01.246147 ---
+Batch 100: Loss=0.9475, Sup=0.8783, Contrast=0.0693
+Batch 200: Loss=1.1040, Sup=1.0234, Contrast=0.0806
+Batch 300: Loss=1.1785, Sup=1.0900, Contrast=0.0884
+Batch 400: Loss=1.1472, Sup=1.0577, Contrast=0.0895
+Batch 500: Loss=0.7644, Sup=0.7083, Contrast=0.0562
+Batch 600: Loss=1.1338, Sup=1.0826, Contrast=0.0512
+
+--- Epoch 10: 2025-06-27 04:40:23.290525 ---
+Batch 100: Loss=1.0341, Sup=0.8860, Contrast=0.1482
+Batch 200: Loss=1.0517, Sup=0.8822, Contrast=0.1694
+Batch 300: Loss=1.0736, Sup=0.9198, Contrast=0.1537
+Batch 400: Loss=1.2592, Sup=1.0554, Contrast=0.2038
+Batch 500: Loss=1.2414, Sup=1.0855, Contrast=0.1559
+Batch 600: Loss=1.0969, Sup=0.9726, Contrast=0.1244
+
+--- Epoch 11: 2025-06-27 04:50:45.986460 ---
+Batch 100: Loss=1.5061, Sup=1.1424, Contrast=0.3638
+Batch 200: Loss=1.3386, Sup=0.8676, Contrast=0.4709
+Batch 300: Loss=1.1112, Sup=0.7156, Contrast=0.3956
+Batch 400: Loss=1.1534, Sup=0.7529, Contrast=0.4005
+Batch 500: Loss=1.4678, Sup=1.1036, Contrast=0.3642
+Batch 600: Loss=1.1867, Sup=0.8423, Contrast=0.3445
+
+--- Epoch 12: 2025-06-27 05:01:08.207005 ---
+Batch 100: Loss=1.3282, Sup=1.1628, Contrast=0.1654
+Batch 200: Loss=1.1972, Sup=0.9891, Contrast=0.2081
+Batch 300: Loss=1.0715, Sup=0.9046, Contrast=0.1668
+Batch 400: Loss=1.3489, Sup=1.1554, Contrast=0.1935
+Batch 500: Loss=1.2367, Sup=1.0648, Contrast=0.1719
+Batch 600: Loss=0.9330, Sup=0.7873, Contrast=0.1457
+
+--- Epoch 13: 2025-06-27 05:11:30.987824 ---
+Batch 100: Loss=0.8522, Sup=0.7043, Contrast=0.1479
+Batch 200: Loss=1.0541, Sup=0.9269, Contrast=0.1272
+Batch 300: Loss=0.8715, Sup=0.7256, Contrast=0.1459
+Batch 400: Loss=1.1417, Sup=1.0030, Contrast=0.1387
+Batch 500: Loss=1.1956, Sup=1.0827, Contrast=0.1129
+Batch 600: Loss=0.9829, Sup=0.8636, Contrast=0.1194
+
+--- Epoch 14: 2025-06-27 05:21:53.907320 ---
+Batch 100: Loss=0.8584, Sup=0.7206, Contrast=0.1378
+Batch 200: Loss=0.9600, Sup=0.8077, Contrast=0.1523
+Batch 300: Loss=0.8332, Sup=0.7169, Contrast=0.1162
+Batch 400: Loss=1.2424, Sup=1.1067, Contrast=0.1357
+Batch 500: Loss=1.1162, Sup=0.9813, Contrast=0.1349
+Batch 600: Loss=0.9389, Sup=0.8313, Contrast=0.1076
+
+--- Epoch 15: 2025-06-27 05:32:16.348419 ---
+Batch 100: Loss=1.0827, Sup=0.9367, Contrast=0.1459
+Batch 200: Loss=0.8459, Sup=0.7142, Contrast=0.1317
+Batch 300: Loss=0.9275, Sup=0.8070, Contrast=0.1204
+Batch 400: Loss=0.7661, Sup=0.6151, Contrast=0.1509
+Batch 500: Loss=1.0350, Sup=0.9063, Contrast=0.1287
+Batch 600: Loss=0.7866, Sup=0.6661, Contrast=0.1204
+
+--- Epoch 16: 2025-06-27 05:42:39.277883 ---
+Batch 100: Loss=1.1955, Sup=0.9882, Contrast=0.2073
+Batch 200: Loss=1.2449, Sup=1.0512, Contrast=0.1937
+Batch 300: Loss=0.9055, Sup=0.7044, Contrast=0.2011
+Batch 400: Loss=1.0096, Sup=0.7973, Contrast=0.2123
+Batch 500: Loss=1.0083, Sup=0.8153, Contrast=0.1930
+Batch 600: Loss=1.0878, Sup=0.9046, Contrast=0.1832
+
+--- Epoch 17: 2025-06-27 05:53:03.388686 ---
+Batch 100: Loss=0.9809, Sup=0.7766, Contrast=0.2043
+Batch 200: Loss=1.0922, Sup=0.8850, Contrast=0.2072
+Batch 300: Loss=0.8813, Sup=0.7014, Contrast=0.1799
+Batch 400: Loss=0.7848, Sup=0.6004, Contrast=0.1844
+Batch 500: Loss=1.0624, Sup=0.8988, Contrast=0.1636
+Batch 600: Loss=1.1426, Sup=0.9413, Contrast=0.2013
+
+--- Epoch 18: 2025-06-27 06:03:27.198699 ---
+Batch 100: Loss=0.9821, Sup=0.7797, Contrast=0.2023
+Batch 200: Loss=1.0027, Sup=0.7553, Contrast=0.2473
+Batch 300: Loss=1.0473, Sup=0.7874, Contrast=0.2599
+Batch 400: Loss=0.9371, Sup=0.7313, Contrast=0.2058
+Batch 500: Loss=0.9902, Sup=0.7521, Contrast=0.2381
+Batch 600: Loss=0.8404, Sup=0.6134, Contrast=0.2270
+
+--- Epoch 19: 2025-06-27 06:13:52.082012 ---
+Batch 100: Loss=1.0018, Sup=0.8949, Contrast=0.1069
+Batch 200: Loss=0.8489, Sup=0.7043, Contrast=0.1445
+Batch 300: Loss=1.0836, Sup=0.9822, Contrast=0.1014
+Batch 400: Loss=1.2105, Sup=1.0227, Contrast=0.1878
+Batch 500: Loss=0.9131, Sup=0.8253, Contrast=0.0878
+Batch 600: Loss=1.1012, Sup=0.9728, Contrast=0.1284
+
+--- Epoch 20: 2025-06-27 06:24:15.392339 ---
+Batch 100: Loss=0.9999, Sup=0.8627, Contrast=0.1373
+Batch 200: Loss=0.9797, Sup=0.8603, Contrast=0.1194
+Batch 300: Loss=1.2819, Sup=1.1313, Contrast=0.1506
+Batch 400: Loss=1.1285, Sup=1.0419, Contrast=0.0866
+Batch 500: Loss=0.7892, Sup=0.6730, Contrast=0.1161
+Batch 600: Loss=0.8279, Sup=0.7410, Contrast=0.0870
+
+--- Epoch 21: 2025-06-27 06:34:39.459996 ---
+Batch 100: Loss=1.2635, Sup=0.8904, Contrast=0.3731
+Batch 200: Loss=1.1949, Sup=0.8258, Contrast=0.3691
+Batch 300: Loss=1.2277, Sup=0.8752, Contrast=0.3525
+Batch 400: Loss=1.1346, Sup=0.7988, Contrast=0.3358
+Batch 500: Loss=1.3856, Sup=1.0086, Contrast=0.3770
+Batch 600: Loss=1.1606, Sup=0.8104, Contrast=0.3502
+
+--- Epoch 22: 2025-06-27 06:45:03.443317 ---
+Batch 100: Loss=1.0129, Sup=0.8640, Contrast=0.1489
+Batch 200: Loss=1.1222, Sup=1.0152, Contrast=0.1070
+Batch 300: Loss=0.7721, Sup=0.6286, Contrast=0.1435
+Batch 400: Loss=1.2253, Sup=1.0837, Contrast=0.1416
+Batch 500: Loss=0.7607, Sup=0.6386, Contrast=0.1221
+Batch 600: Loss=1.1143, Sup=0.9422, Contrast=0.1722
+
+--- Epoch 23: 2025-06-27 06:55:27.719890 ---
+Batch 100: Loss=0.9044, Sup=0.7979, Contrast=0.1065
+Batch 200: Loss=1.0183, Sup=0.9107, Contrast=0.1076
+Batch 300: Loss=1.1063, Sup=1.0092, Contrast=0.0971
+Batch 400: Loss=0.8869, Sup=0.7964, Contrast=0.0905
+Batch 500: Loss=0.6463, Sup=0.5479, Contrast=0.0984
+Batch 600: Loss=0.9704, Sup=0.8622, Contrast=0.1082
+
+--- Epoch 24: 2025-06-27 07:05:52.621459 ---
+Batch 100: Loss=1.1663, Sup=0.9828, Contrast=0.1835
+Batch 200: Loss=0.8973, Sup=0.6709, Contrast=0.2264
+Batch 300: Loss=1.0781, Sup=0.8487, Contrast=0.2294
+Batch 400: Loss=1.0623, Sup=0.8575, Contrast=0.2048
+Batch 500: Loss=0.9953, Sup=0.8210, Contrast=0.1743
+Batch 600: Loss=1.0256, Sup=0.8726, Contrast=0.1530
+
+--- Epoch 25: 2025-06-27 07:16:17.008067 ---
+Batch 100: Loss=1.0358, Sup=0.7986, Contrast=0.2372
+Batch 200: Loss=0.9038, Sup=0.6894, Contrast=0.2144
+Batch 300: Loss=0.8596, Sup=0.6882, Contrast=0.1714
+Batch 400: Loss=0.8145, Sup=0.5828, Contrast=0.2316
+Batch 500: Loss=0.8446, Sup=0.6281, Contrast=0.2165
+Batch 600: Loss=0.9920, Sup=0.7941, Contrast=0.1980
+
+--- Epoch 26: 2025-06-27 07:26:42.154950 ---
+Batch 100: Loss=1.0881, Sup=0.9217, Contrast=0.1665
+Batch 200: Loss=0.7742, Sup=0.5907, Contrast=0.1834
+Batch 300: Loss=0.8734, Sup=0.6858, Contrast=0.1876
+Batch 400: Loss=0.9237, Sup=0.7456, Contrast=0.1782
+Batch 500: Loss=1.1426, Sup=0.9408, Contrast=0.2018
+Batch 600: Loss=0.7760, Sup=0.5768, Contrast=0.1992
+
+--- Epoch 27: 2025-06-27 07:37:05.651800 ---
+Batch 100: Loss=0.8810, Sup=0.7168, Contrast=0.1643
+Batch 200: Loss=0.8953, Sup=0.7128, Contrast=0.1826
+Batch 300: Loss=0.9255, Sup=0.7046, Contrast=0.2209
+Batch 400: Loss=1.0857, Sup=0.8965, Contrast=0.1892
+Batch 500: Loss=0.9190, Sup=0.7013, Contrast=0.2177
+Batch 600: Loss=1.0614, Sup=0.8953, Contrast=0.1662
+
+--- Epoch 28: 2025-06-27 07:47:29.177188 ---
+Batch 100: Loss=0.7383, Sup=0.6319, Contrast=0.1064
+Batch 200: Loss=1.0950, Sup=0.9589, Contrast=0.1361
+Batch 300: Loss=0.8458, Sup=0.7143, Contrast=0.1315
+Batch 400: Loss=0.9324, Sup=0.8151, Contrast=0.1173
+Batch 500: Loss=0.5394, Sup=0.4239, Contrast=0.1155
+Batch 600: Loss=0.9265, Sup=0.7817, Contrast=0.1448
+
+--- Epoch 29: 2025-06-27 07:57:54.474347 ---
+Batch 100: Loss=0.8784, Sup=0.6815, Contrast=0.1969
+Batch 200: Loss=0.9751, Sup=0.7655, Contrast=0.2097
+Batch 300: Loss=0.9123, Sup=0.6897, Contrast=0.2226
+Batch 400: Loss=0.9452, Sup=0.7833, Contrast=0.1619
+Batch 500: Loss=0.8516, Sup=0.6563, Contrast=0.1953
+Batch 600: Loss=0.9484, Sup=0.7318, Contrast=0.2166
+
+--- Epoch 30: 2025-06-27 08:08:19.405749 ---
+Batch 100: Loss=0.9715, Sup=0.8358, Contrast=0.1357
+Batch 200: Loss=1.0840, Sup=0.9119, Contrast=0.1720
+Batch 300: Loss=1.0038, Sup=0.8458, Contrast=0.1580
+Batch 400: Loss=1.0034, Sup=0.8111, Contrast=0.1923
+Batch 500: Loss=0.8080, Sup=0.6432, Contrast=0.1648
+Batch 600: Loss=1.0311, Sup=0.8594, Contrast=0.1717
+
+--- Epoch 31: 2025-06-27 08:18:44.600148 ---
+Batch 100: Loss=1.0359, Sup=0.8804, Contrast=0.1556
+Batch 200: Loss=0.7459, Sup=0.5901, Contrast=0.1558
+Batch 300: Loss=0.7666, Sup=0.5751, Contrast=0.1915
+Batch 400: Loss=0.7543, Sup=0.5884, Contrast=0.1658
+Batch 500: Loss=1.0747, Sup=0.8964, Contrast=0.1784
+Batch 600: Loss=0.9835, Sup=0.8248, Contrast=0.1587
+
+--- Epoch 32: 2025-06-27 08:29:09.552342 ---
+Batch 100: Loss=0.8692, Sup=0.6780, Contrast=0.1912
+Batch 200: Loss=0.9129, Sup=0.7530, Contrast=0.1599
+Batch 300: Loss=0.9165, Sup=0.7081, Contrast=0.2084
+Batch 400: Loss=0.8029, Sup=0.6468, Contrast=0.1561
+Batch 500: Loss=0.9080, Sup=0.7134, Contrast=0.1946
+Batch 600: Loss=1.1077, Sup=0.8990, Contrast=0.2087
+
+--- Epoch 33: 2025-06-27 08:39:34.640578 ---
+Batch 100: Loss=0.9708, Sup=0.7987, Contrast=0.1721
+Batch 200: Loss=1.0165, Sup=0.8199, Contrast=0.1966
+Batch 300: Loss=0.6719, Sup=0.4788, Contrast=0.1931
+Batch 400: Loss=1.0422, Sup=0.8741, Contrast=0.1681
+Batch 500: Loss=0.8378, Sup=0.6547, Contrast=0.1831
+Batch 600: Loss=0.8790, Sup=0.6895, Contrast=0.1895
+
+--- Epoch 34: 2025-06-27 08:50:00.690616 ---
+Batch 100: Loss=0.7192, Sup=0.6368, Contrast=0.0824
+Batch 200: Loss=0.6383, Sup=0.5597, Contrast=0.0786
+Batch 300: Loss=0.5333, Sup=0.4464, Contrast=0.0869
+Batch 400: Loss=0.9038, Sup=0.8412, Contrast=0.0626
+Batch 500: Loss=0.8861, Sup=0.8184, Contrast=0.0677
+Batch 600: Loss=0.8288, Sup=0.7306, Contrast=0.0982
+
+--- Epoch 35: 2025-06-27 09:00:25.988589 ---
+Batch 100: Loss=0.9467, Sup=0.8465, Contrast=0.1002
+Batch 200: Loss=0.7285, Sup=0.6039, Contrast=0.1246
+Batch 300: Loss=0.6943, Sup=0.5671, Contrast=0.1272
+Batch 400: Loss=0.8641, Sup=0.7544, Contrast=0.1097
+Batch 500: Loss=0.8034, Sup=0.6807, Contrast=0.1227
+Batch 600: Loss=0.8443, Sup=0.7305, Contrast=0.1137
+
+--- Epoch 36: 2025-06-27 09:10:51.178010 ---
+Batch 100: Loss=1.1951, Sup=0.6277, Contrast=0.5674
+Batch 200: Loss=1.2185, Sup=0.7358, Contrast=0.4827
+Batch 300: Loss=1.3086, Sup=0.6845, Contrast=0.6241
+Batch 400: Loss=1.0921, Sup=0.6401, Contrast=0.4520
+Batch 500: Loss=1.0428, Sup=0.6112, Contrast=0.4316
+Batch 600: Loss=1.1679, Sup=0.6425, Contrast=0.5254
+
+--- Epoch 37: 2025-06-27 09:21:16.356256 ---
+Batch 100: Loss=0.9133, Sup=0.8064, Contrast=0.1068
+Batch 200: Loss=0.7112, Sup=0.6562, Contrast=0.0550
+Batch 300: Loss=0.7242, Sup=0.6577, Contrast=0.0665
+Batch 400: Loss=0.9110, Sup=0.8409, Contrast=0.0701
+Batch 500: Loss=0.8487, Sup=0.7656, Contrast=0.0832
+Batch 600: Loss=1.0650, Sup=1.0079, Contrast=0.0571
+
+--- Epoch 38: 2025-06-27 09:31:42.276261 ---
+Batch 100: Loss=0.9626, Sup=0.5814, Contrast=0.3813
+Batch 200: Loss=1.3532, Sup=0.8812, Contrast=0.4720
+Batch 300: Loss=1.1655, Sup=0.7626, Contrast=0.4029
+Batch 400: Loss=1.1424, Sup=0.7336, Contrast=0.4088
+Batch 500: Loss=1.0356, Sup=0.6676, Contrast=0.3680
+Batch 600: Loss=1.3363, Sup=0.8871, Contrast=0.4492
+
+--- Epoch 39: 2025-06-27 09:42:08.833245 ---
+Batch 100: Loss=0.7306, Sup=0.6008, Contrast=0.1299
+Batch 200: Loss=0.9874, Sup=0.8424, Contrast=0.1450
+Batch 300: Loss=0.7106, Sup=0.5706, Contrast=0.1400
+Batch 400: Loss=0.7815, Sup=0.6365, Contrast=0.1451
+Batch 500: Loss=0.6150, Sup=0.5158, Contrast=0.0992
+Batch 600: Loss=0.7710, Sup=0.5950, Contrast=0.1759
+
+--- Epoch 40: 2025-06-27 09:52:35.648950 ---
+Batch 100: Loss=1.0476, Sup=0.6943, Contrast=0.3532
+Batch 200: Loss=1.2169, Sup=0.8407, Contrast=0.3762
+Batch 300: Loss=1.1201, Sup=0.7492, Contrast=0.3709
+Batch 400: Loss=1.0599, Sup=0.7119, Contrast=0.3481
+Batch 500: Loss=1.0267, Sup=0.6519, Contrast=0.3748
+Batch 600: Loss=1.1884, Sup=0.7696, Contrast=0.4187
+
+--- Epoch 41: 2025-06-27 10:03:02.499994 ---
+Batch 100: Loss=0.8047, Sup=0.5447, Contrast=0.2601
+Batch 200: Loss=0.9900, Sup=0.7608, Contrast=0.2292
+Batch 300: Loss=0.8202, Sup=0.5773, Contrast=0.2429
+Batch 400: Loss=0.8900, Sup=0.6548, Contrast=0.2352
+Batch 500: Loss=0.8606, Sup=0.6128, Contrast=0.2478
+Batch 600: Loss=0.8467, Sup=0.6323, Contrast=0.2144
+
+--- Epoch 42: 2025-06-27 10:13:29.275848 ---
+Batch 100: Loss=0.7266, Sup=0.5502, Contrast=0.1763
+Batch 200: Loss=0.5881, Sup=0.4218, Contrast=0.1663
+Batch 300: Loss=0.7727, Sup=0.5914, Contrast=0.1813
+Batch 400: Loss=0.6165, Sup=0.4316, Contrast=0.1850
+Batch 500: Loss=0.8089, Sup=0.6927, Contrast=0.1162
+Batch 600: Loss=1.0134, Sup=0.8106, Contrast=0.2029
+
+--- Epoch 43: 2025-06-27 10:24:01.102168 ---
+Batch 100: Loss=0.8198, Sup=0.6878, Contrast=0.1321
+Batch 200: Loss=0.8530, Sup=0.6989, Contrast=0.1541
+Batch 300: Loss=0.6664, Sup=0.5136, Contrast=0.1529
+Batch 400: Loss=0.9687, Sup=0.8009, Contrast=0.1678
+Batch 500: Loss=0.9405, Sup=0.8024, Contrast=0.1381
+Batch 600: Loss=0.8953, Sup=0.7247, Contrast=0.1707
+
+--- Epoch 44: 2025-06-27 10:35:44.903608 ---
+Batch 100: Loss=0.8617, Sup=0.6454, Contrast=0.2163
+Batch 200: Loss=0.9262, Sup=0.6266, Contrast=0.2996
+Batch 300: Loss=1.0956, Sup=0.8170, Contrast=0.2786
+Batch 400: Loss=0.9695, Sup=0.7539, Contrast=0.2155
+Batch 500: Loss=0.8653, Sup=0.6611, Contrast=0.2042
+Batch 600: Loss=1.0573, Sup=0.7993, Contrast=0.2580
+
+--- Epoch 45: 2025-06-27 10:47:33.431492 ---
+Batch 100: Loss=0.6526, Sup=0.5162, Contrast=0.1363
+Batch 200: Loss=0.6997, Sup=0.6248, Contrast=0.0749
+Batch 300: Loss=0.6623, Sup=0.5280, Contrast=0.1342
+Batch 400: Loss=0.8017, Sup=0.6653, Contrast=0.1365
+Batch 500: Loss=0.8135, Sup=0.7009, Contrast=0.1126
+Batch 600: Loss=0.8769, Sup=0.7503, Contrast=0.1266
+
+--- Epoch 46: 2025-06-27 11:01:05.913542 ---
+Batch 100: Loss=0.5896, Sup=0.4692, Contrast=0.1205
+Batch 200: Loss=0.7623, Sup=0.6441, Contrast=0.1182
+Batch 300: Loss=0.7452, Sup=0.6326, Contrast=0.1126
+Batch 400: Loss=0.7069, Sup=0.5799, Contrast=0.1269
+Batch 500: Loss=0.7874, Sup=0.6710, Contrast=0.1164
+Batch 600: Loss=0.5366, Sup=0.4205, Contrast=0.1161
+
+--- Epoch 47: 2025-06-27 11:12:24.481807 ---
+Batch 100: Loss=0.9206, Sup=0.7888, Contrast=0.1318
+Batch 200: Loss=0.8061, Sup=0.6806, Contrast=0.1255
+Batch 300: Loss=0.7992, Sup=0.6721, Contrast=0.1271
+Batch 400: Loss=1.0452, Sup=0.9099, Contrast=0.1353
+Batch 500: Loss=0.6068, Sup=0.4828, Contrast=0.1240
+Batch 600: Loss=0.6181, Sup=0.4866, Contrast=0.1315
+
+--- Epoch 48: 2025-06-27 11:24:39.139255 ---
+Batch 100: Loss=0.5977, Sup=0.4569, Contrast=0.1408
+Batch 200: Loss=0.7430, Sup=0.6085, Contrast=0.1345
+Batch 300: Loss=0.6649, Sup=0.4783, Contrast=0.1866
+Batch 400: Loss=0.7865, Sup=0.6191, Contrast=0.1674
+Batch 500: Loss=0.6553, Sup=0.4945, Contrast=0.1608
+Batch 600: Loss=0.7566, Sup=0.5910, Contrast=0.1655
+
+--- Epoch 49: 2025-06-27 11:35:48.111498 ---
+Batch 100: Loss=0.6684, Sup=0.5284, Contrast=0.1399
+Batch 200: Loss=0.7870, Sup=0.5927, Contrast=0.1943
+Batch 300: Loss=0.9549, Sup=0.7568, Contrast=0.1980
+Batch 400: Loss=0.9224, Sup=0.7089, Contrast=0.2135
+Batch 500: Loss=0.7367, Sup=0.5730, Contrast=0.1636
+Batch 600: Loss=0.8836, Sup=0.7171, Contrast=0.1665
+
+--- Epoch 50: 2025-06-27 11:46:13.257512 ---
+Batch 100: Loss=0.6012, Sup=0.5070, Contrast=0.0941
+Batch 200: Loss=0.6945, Sup=0.6174, Contrast=0.0771
+Batch 300: Loss=0.6151, Sup=0.5295, Contrast=0.0856
+Batch 400: Loss=0.7140, Sup=0.6404, Contrast=0.0736
+Batch 500: Loss=0.7415, Sup=0.6119, Contrast=0.1296
+Batch 600: Loss=0.6150, Sup=0.5443, Contrast=0.0708

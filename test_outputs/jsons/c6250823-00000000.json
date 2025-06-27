@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      317.12,
+      419.12,
+      467.38,
+      543.21
+    ],
+    "score": 0.9976,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      0.0,
+      378.54,
+      215.91,
+      604.17
+    ],
+    "score": 0.9971,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      0.21,
+      451.67,
+      60.51,
+      636.02
+    ],
+    "score": 0.9961,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1131.73,
+      484.17,
+      1271.98,
+      539.72
+    ],
+    "score": 0.9831,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1241.66,
+      504.24,
+      1278.81,
+      559.54
+    ],
+    "score": 0.9811,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      875.7,
+      468.14,
+      956.58,
+      501.98
+    ],
+    "score": 0.9715,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      763.6,
+      461.07,
+      884.53,
+      501.23
+    ],
+    "score": 0.9647,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1023.87,
+      470.42,
+      1120.47,
+      521.64
+    ],
+    "score": 0.9627,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      720.82,
+      461.32,
+      769.77,
+      488.13
+    ],
+    "score": 0.9474,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      968.31,
+      468.58,
+      1075.91,
+      509.55
+    ],
+    "score": 0.9445,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      951.03,
+      472.05,
+      991.22,
+      503.24
+    ],
+    "score": 0.9361,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      739.21,
+      463.34,
+      804.79,
+      495.47
+    ],
+    "score": 0.9032,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      642.22,
+      458.65,
+      720.21,
+      482.9
+    ],
+    "score": 0.7864,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1122.14,
+      471.04,
+      1204.31,
+      508.51
+    ],
+    "score": 0.6346,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      538.62,
+      466.23,
+      571.49,
+      482.45
+    ],
+    "score": 0.6198,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      636.6,
+      448.79,
+      686.21,
+      469.86
+    ],
+    "score": 0.5851,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      811.24,
+      456.17,
+      874.59,
+      472.63
+    ],
+    "score": 0.5557,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      593.0,
+      459.16,
+      625.42,
+      479.73
+    ],
+    "score": 0.5172,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      568.36,
+      461.29,
+      594.51,
+      476.43
+    ],
+    "score": 0.517,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      591.04,
+      442.27,
+      624.25,
+      463.8
+    ],
+    "score": 0.5048,
+    "label": 1,
+    "label_name": "vehicle"
+  }
+]

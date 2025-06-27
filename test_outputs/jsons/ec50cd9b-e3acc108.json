@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      523.37,
+      343.44,
+      812.76,
+      542.59
+    ],
+    "score": 0.9983,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      303.46,
+      321.45,
+      390.86,
+      408.51
+    ],
+    "score": 0.998,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      921.06,
+      325.64,
+      962.11,
+      450.06
+    ],
+    "score": 0.9978,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      147.07,
+      353.66,
+      355.02,
+      497.87
+    ],
+    "score": 0.9977,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1.58,
+      364.8,
+      122.45,
+      465.71
+    ],
+    "score": 0.9967,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1058.03,
+      332.07,
+      1110.34,
+      462.46
+    ],
+    "score": 0.9931,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      1134.19,
+      340.49,
+      1178.01,
+      461.98
+    ],
+    "score": 0.9911,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      60.45,
+      366.78,
+      159.62,
+      436.76
+    ],
+    "score": 0.9803,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      480.72,
+      361.75,
+      514.09,
+      388.44
+    ],
+    "score": 0.9722,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      453.51,
+      368.97,
+      477.21,
+      384.45
+    ],
+    "score": 0.9417,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      824.71,
+      345.09,
+      860.36,
+      422.16
+    ],
+    "score": 0.6102,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      404.24,
+      376.3,
+      425.89,
+      393.57
+    ],
+    "score": 0.5911,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      516.36,
+      354.03,
+      541.44,
+      376.67
+    ],
+    "score": 0.5561,
+    "label": 1,
+    "label_name": "vehicle"
+  }
+]

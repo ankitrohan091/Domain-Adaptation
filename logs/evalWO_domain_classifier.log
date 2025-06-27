@@ -1,0 +1,20 @@
+     --- Evaluation Run: 2025-06-27 14:54:31.641167 ---
+Model: checkpoints/da_without_domain_classifier_raw_epoch_50.pth
+Processed 100 images
+Processed 200 images
+Processed 300 images
+Processed 400 images
+Processed 500 images
+Processed 600 images
+Processed 700 images
+Processed 800 images
+Processed 900 images
+Processed 1000 images
+Final Precision: 0.6738
+Final Recall: 0.5361
+Final F1 Score: 0.5971
+Class 1: AP@0.5 = 0.2099
+Class 2: AP@0.5 = 0.1166
+Class 3: AP@0.5 = 0.0458
+mAP@0.5: 0.1241
+mAP@[.5:.95]: 0.0883

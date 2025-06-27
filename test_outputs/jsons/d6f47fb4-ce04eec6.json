@@ -1,0 +1,112 @@
+[
+  {
+    "bbox": [
+      0.0,
+      219.43,
+      77.4,
+      285.03
+    ],
+    "score": 0.9962,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      74.02,
+      217.37,
+      167.27,
+      266.27
+    ],
+    "score": 0.9937,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1197.04,
+      329.52,
+      1277.63,
+      376.94
+    ],
+    "score": 0.9837,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      547.43,
+      245.65,
+      579.84,
+      273.21
+    ],
+    "score": 0.9796,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      28.2,
+      215.72,
+      81.18,
+      248.43
+    ],
+    "score": 0.8755,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      579.5,
+      246.94,
+      603.03,
+      265.03
+    ],
+    "score": 0.8517,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      328.18,
+      233.71,
+      374.05,
+      267.26
+    ],
+    "score": 0.8123,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      807.61,
+      272.09,
+      823.86,
+      322.46
+    ],
+    "score": 0.8032,
+    "label": 2,
+    "label_name": "person"
+  },
+  {
+    "bbox": [
+      396.02,
+      230.44,
+      419.12,
+      247.24
+    ],
+    "score": 0.7884,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      589.97,
+      247.99,
+      621.78,
+      268.98
+    ],
+    "score": 0.6288,
+    "label": 1,
+    "label_name": "vehicle"
+  }
+]

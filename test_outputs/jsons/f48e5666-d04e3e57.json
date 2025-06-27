@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      160.77,
+      404.64,
+      254.23,
+      462.97
+    ],
+    "score": 0.9965,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      0.0,
+      406.5,
+      140.93,
+      487.39
+    ],
+    "score": 0.9951,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      82.04,
+      407.18,
+      196.67,
+      471.26
+    ],
+    "score": 0.9913,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      370.79,
+      403.98,
+      409.3,
+      436.03
+    ],
+    "score": 0.9834,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      474.14,
+      382.27,
+      496.42,
+      400.46
+    ],
+    "score": 0.9272,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      500.24,
+      378.19,
+      518.81,
+      392.58
+    ],
+    "score": 0.8342,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      113.25,
+      355.08,
+      224.74,
+      405.33
+    ],
+    "score": 0.8312,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      550.0,
+      403.36,
+      571.33,
+      423.6
+    ],
+    "score": 0.7675,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      402.6,
+      390.73,
+      429.21,
+      410.8
+    ],
+    "score": 0.7254,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      550.83,
+      380.46,
+      571.25,
+      398.98
+    ],
+    "score": 0.6545,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      524.93,
+      378.51,
+      540.98,
+      389.46
+    ],
+    "score": 0.5896,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      473.33,
+      370.39,
+      494.96,
+      388.38
+    ],
+    "score": 0.5896,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      340.13,
+      404.44,
+      349.46,
+      432.7
+    ],
+    "score": 0.5001,
+    "label": 2,
+    "label_name": "person"
+  }
+]

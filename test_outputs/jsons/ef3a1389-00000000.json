@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      0.61,
+      452.88,
+      157.46,
+      709.29
+    ],
+    "score": 0.9986,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      0.0,
+      421.77,
+      148.46,
+      543.02
+    ],
+    "score": 0.9972,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      511.57,
+      319.56,
+      666.03,
+      469.71
+    ],
+    "score": 0.9971,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      929.97,
+      416.73,
+      1269.74,
+      628.77
+    ],
+    "score": 0.9966,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      564.02,
+      381.4,
+      843.44,
+      638.85
+    ],
+    "score": 0.9955,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      243.81,
+      302.35,
+      559.57,
+      551.85
+    ],
+    "score": 0.9951,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      856.82,
+      404.09,
+      900.22,
+      444.45
+    ],
+    "score": 0.9935,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      878.97,
+      416.96,
+      930.96,
+      451.6
+    ],
+    "score": 0.9823,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      829.71,
+      406.97,
+      855.78,
+      431.45
+    ],
+    "score": 0.973,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      914.67,
+      421.72,
+      968.57,
+      464.1
+    ],
+    "score": 0.9687,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      795.55,
+      392.9,
+      830.07,
+      430.04
+    ],
+    "score": 0.9626,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1213.51,
+      445.6,
+      1280.0,
+      518.16
+    ],
+    "score": 0.9318,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      1178.83,
+      402.76,
+      1205.59,
+      444.5
+    ],
+    "score": 0.7736,
+    "label": 2,
+    "label_name": "person"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "bbox": [
+      3.52,
+      310.73,
+      216.99,
+      546.05
+    ],
+    "score": 0.9974,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      535.2,
+      331.75,
+      596.36,
+      381.2
+    ],
+    "score": 0.9965,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      124.19,
+      314.94,
+      207.81,
+      355.14
+    ],
+    "score": 0.9931,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      354.49,
+      327.33,
+      430.6,
+      369.24
+    ],
+    "score": 0.9925,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      282.73,
+      324.57,
+      349.36,
+      363.93
+    ],
+    "score": 0.985,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      599.26,
+      334.58,
+      630.59,
+      357.78
+    ],
+    "score": 0.9752,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      516.2,
+      328.67,
+      549.29,
+      359.81
+    ],
+    "score": 0.9581,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      470.78,
+      330.98,
+      505.96,
+      356.48
+    ],
+    "score": 0.8249,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      580.25,
+      332.04,
+      602.47,
+      353.73
+    ],
+    "score": 0.7573,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      37.89,
+      305.4,
+      115.14,
+      320.98
+    ],
+    "score": 0.7292,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      500.69,
+      329.95,
+      518.49,
+      350.86
+    ],
+    "score": 0.6935,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      413.1,
+      324.68,
+      444.07,
+      345.21
+    ],
+    "score": 0.6416,
+    "label": 1,
+    "label_name": "vehicle"
+  },
+  {
+    "bbox": [
+      39.82,
+      309.97,
+      133.83,
+      340.17
+    ],
+    "score": 0.596,
+    "label": 1,
+    "label_name": "vehicle"
+  }
+]

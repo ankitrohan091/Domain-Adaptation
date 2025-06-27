@@ -1,0 +1,783 @@
+
+--- Epoch 1: 2025-06-25 16:55:32.223055 ---
+Batch 0: Loss=4.4950, Sup=3.1629, Domain=1.3321, Contrast=0.0000
+Batch 100: Loss=0.8106, Sup=0.8106, Domain=0.0000, Contrast=0.0000
+Batch 200: Loss=1.4713, Sup=1.4713, Domain=0.0000, Contrast=0.0000
+Batch 300: Loss=1.3525, Sup=1.3525, Domain=0.0000, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 17:07:23.612351 ---
+
+--- Epoch 1: 2025-06-25 17:08:23.665554 ---
+Batch 0: Loss=4.6977, Sup=3.3326, Domain=1.3651, Contrast=0.0000
+Batch 100: Loss=0.3917, Sup=0.3917, Domain=0.0000, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 17:36:58.181350 ---
+
+--- Epoch 1: 2025-06-25 17:56:30.741975 ---
+Batch 0: Loss=4.1689, Sup=2.7877, Domain=1.3812, Contrast=0.0000
+Batch 100: Loss=0.9917, Sup=0.9917, Domain=0.0000, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 17:59:47.913888 ---
+Batch 0: Loss=4.2300, Sup=2.7740, Domain=1.4560, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:01:52.432443 ---
+Batch 0: Loss=4.6550, Sup=3.3194, Domain=1.3357, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:02:41.918218 ---
+Batch 0: Loss=4.4131, Sup=3.1476, Domain=1.2655, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:06:20.367029 ---
+Batch 0: Loss=4.4620, Sup=3.0472, Domain=1.4148, Contrast=0.0000
+Batch 100: Loss=1.2009, Sup=1.2006, Domain=0.0003, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:13:34.952705 ---
+Batch 0: Loss=4.8538, Sup=3.4024, Domain=1.4513, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:15:07.195692 ---
+
+--- Epoch 1: 2025-06-25 18:17:32.080109 ---
+Batch 0: Loss=4.1893, Sup=2.8465, Domain=1.3429, Contrast=0.0000
+Batch 100: Loss=1.6917, Sup=1.6917, Domain=0.0000, Contrast=0.0000
+Batch 200: Loss=0.8819, Sup=0.8819, Domain=0.0000, Contrast=0.0000
+Batch 300: Loss=1.2604, Sup=1.2604, Domain=0.0000, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:43:45.858181 ---
+Batch 0: Loss=4.3747, Sup=2.9402, Domain=1.4345, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:49:11.600257 ---
+Batch 0: Loss=4.4988, Sup=3.1232, Domain=1.3755, Contrast=0.0000
+
+--- Epoch 1: 2025-06-25 18:52:13.868798 ---
+Batch 0: Loss=3.1820, Sup=2.1962, Domain=0.9858, Contrast=0.0000
+Batch 100: Loss=0.2844, Sup=0.2698, Domain=0.0145, Contrast=0.0000
+Batch 200: Loss=1.3838, Sup=1.3754, Domain=0.0084, Contrast=0.0000
+Batch 300: Loss=1.5228, Sup=1.3503, Domain=0.0072, Contrast=0.1652
+Batch 400: Loss=0.6863, Sup=0.6054, Domain=0.0048, Contrast=0.0761
+Batch 500: Loss=1.1187, Sup=1.0278, Domain=0.0039, Contrast=0.0870
+Batch 600: Loss=1.3171, Sup=1.2209, Domain=0.0030, Contrast=0.0932
+Batch 700: Loss=1.4061, Sup=1.3423, Domain=0.0029, Contrast=0.0609
+Batch 800: Loss=0.9457, Sup=0.8475, Domain=0.0023, Contrast=0.0960
+Batch 900: Loss=1.4489, Sup=1.3663, Domain=0.0021, Contrast=0.0805
+
+--- Epoch 2: 2025-06-25 19:13:04.641934 ---
+Batch 0: Loss=1.2811, Sup=1.1459, Domain=0.0021, Contrast=0.1331
+Batch 100: Loss=1.2838, Sup=1.1116, Domain=0.0020, Contrast=0.1702
+Batch 200: Loss=1.2453, Sup=1.0510, Domain=0.0019, Contrast=0.1925
+Batch 300: Loss=0.9359, Sup=0.8288, Domain=0.0016, Contrast=0.1054
+Batch 400: Loss=0.7780, Sup=0.6380, Domain=0.0016, Contrast=0.1384
+Batch 500: Loss=0.8207, Sup=0.6871, Domain=0.0014, Contrast=0.1322
+Batch 600: Loss=0.9605, Sup=0.8324, Domain=0.0014, Contrast=0.1267
+Batch 700: Loss=1.4075, Sup=1.3373, Domain=0.0013, Contrast=0.0689
+Batch 800: Loss=1.5312, Sup=1.4089, Domain=0.0011, Contrast=0.1212
+Batch 900: Loss=1.7049, Sup=1.5840, Domain=0.0012, Contrast=0.1196
+
+--- Epoch 3: 2025-06-25 19:33:59.656696 ---
+Batch 0: Loss=1.5730, Sup=1.4026, Domain=0.0012, Contrast=0.1692
+Batch 100: Loss=1.3827, Sup=1.1406, Domain=0.0010, Contrast=0.2411
+Batch 200: Loss=0.9114, Sup=0.7175, Domain=0.0010, Contrast=0.1928
+Batch 300: Loss=1.1889, Sup=0.9938, Domain=0.0011, Contrast=0.1940
+Batch 400: Loss=0.6868, Sup=0.4887, Domain=0.0011, Contrast=0.1969
+Batch 500: Loss=1.5860, Sup=1.3496, Domain=0.0008, Contrast=0.2356
+Batch 600: Loss=1.1041, Sup=0.9143, Domain=0.0013, Contrast=0.1885
+Batch 700: Loss=0.9295, Sup=0.7845, Domain=0.0011, Contrast=0.1440
+Batch 800: Loss=1.2103, Sup=1.0131, Domain=0.0008, Contrast=0.1964
+Batch 900: Loss=0.5445, Sup=0.3808, Domain=0.0008, Contrast=0.1628
+
+--- Epoch 4: 2025-06-25 19:54:54.815134 ---
+Batch 0: Loss=1.2458, Sup=0.8952, Domain=0.0007, Contrast=0.3499
+Batch 100: Loss=1.4921, Sup=1.2601, Domain=0.0007, Contrast=0.2313
+Batch 200: Loss=1.8826, Sup=1.5478, Domain=0.0007, Contrast=0.3341
+Batch 300: Loss=1.3519, Sup=0.9663, Domain=0.0008, Contrast=0.3848
+Batch 400: Loss=1.4922, Sup=1.3217, Domain=0.0006, Contrast=0.1699
+Batch 500: Loss=1.4184, Sup=1.1587, Domain=0.0009, Contrast=0.2588
+Batch 600: Loss=1.5278, Sup=1.2042, Domain=0.0010, Contrast=0.3226
+Batch 700: Loss=1.2635, Sup=1.1000, Domain=0.0007, Contrast=0.1628
+Batch 800: Loss=1.4625, Sup=1.1851, Domain=0.0007, Contrast=0.2767
+Batch 900: Loss=1.3090, Sup=1.0997, Domain=0.0008, Contrast=0.2085
+
+--- Epoch 5: 2025-06-25 20:16:08.981436 ---
+Batch 0: Loss=1.6987, Sup=1.5557, Domain=0.0007, Contrast=0.1423
+Batch 100: Loss=1.4012, Sup=1.2296, Domain=0.0008, Contrast=0.1708
+Batch 200: Loss=1.4122, Sup=1.2488, Domain=0.0006, Contrast=0.1628
+Batch 300: Loss=1.2909, Sup=1.1255, Domain=0.0006, Contrast=0.1647
+Batch 400: Loss=1.4421, Sup=1.2947, Domain=0.0007, Contrast=0.1468
+Batch 500: Loss=0.9566, Sup=0.8069, Domain=0.0006, Contrast=0.1490
+Batch 600: Loss=1.4145, Sup=1.2558, Domain=0.0007, Contrast=0.1581
+Batch 700: Loss=1.8240, Sup=1.6991, Domain=0.0006, Contrast=0.1242
+Batch 800: Loss=1.0908, Sup=0.9342, Domain=0.0006, Contrast=0.1561
+Batch 900: Loss=1.4194, Sup=1.2704, Domain=0.0005, Contrast=0.1485
+
+--- Epoch 6: 2025-06-25 20:37:07.328781 ---
+Batch 0: Loss=1.2603, Sup=1.1001, Domain=0.0010, Contrast=0.1593
+Batch 100: Loss=1.3587, Sup=1.1653, Domain=0.0006, Contrast=0.1928
+Batch 200: Loss=2.1844, Sup=1.9953, Domain=0.0005, Contrast=0.1887
+Batch 300: Loss=1.1082, Sup=0.9780, Domain=0.0005, Contrast=0.1297
+Batch 400: Loss=1.0231, Sup=0.7792, Domain=0.0006, Contrast=0.2434
+Batch 500: Loss=1.2872, Sup=1.0879, Domain=0.0005, Contrast=0.1989
+Batch 600: Loss=1.0360, Sup=0.8161, Domain=0.0005, Contrast=0.2193
+Batch 700: Loss=1.0896, Sup=0.8855, Domain=0.0005, Contrast=0.2036
+Batch 800: Loss=1.0022, Sup=0.7828, Domain=0.0006, Contrast=0.2188
+Batch 900: Loss=1.4175, Sup=1.2180, Domain=0.0007, Contrast=0.1987
+
+--- Epoch 7: 2025-06-25 20:58:04.847586 ---
+Batch 0: Loss=0.8340, Sup=0.6429, Domain=0.0004, Contrast=0.1907
+Batch 100: Loss=0.8611, Sup=0.6587, Domain=0.0005, Contrast=0.2019
+Batch 200: Loss=0.9021, Sup=0.6828, Domain=0.0006, Contrast=0.2187
+Batch 300: Loss=1.0291, Sup=0.8089, Domain=0.0004, Contrast=0.2199
+Batch 400: Loss=1.0839, Sup=0.8551, Domain=0.0004, Contrast=0.2284
+Batch 500: Loss=0.9036, Sup=0.6686, Domain=0.0007, Contrast=0.2343
+Batch 600: Loss=1.4379, Sup=1.2176, Domain=0.0005, Contrast=0.2198
+Batch 700: Loss=1.3626, Sup=1.0671, Domain=0.0005, Contrast=0.2951
+Batch 800: Loss=0.9824, Sup=0.7590, Domain=0.0005, Contrast=0.2229
+Batch 900: Loss=1.2397, Sup=1.0187, Domain=0.0006, Contrast=0.2204
+
+--- Epoch 8: 2025-06-25 21:19:02.746447 ---
+Batch 0: Loss=1.3319, Sup=1.2829, Domain=0.0007, Contrast=0.0484
+Batch 100: Loss=1.4560, Sup=1.3366, Domain=0.0005, Contrast=0.1189
+Batch 200: Loss=1.0119, Sup=0.8952, Domain=0.0005, Contrast=0.1162
+Batch 300: Loss=1.1918, Sup=1.0989, Domain=0.0005, Contrast=0.0925
+Batch 400: Loss=0.8710, Sup=0.7682, Domain=0.0004, Contrast=0.1024
+Batch 500: Loss=0.5412, Sup=0.4374, Domain=0.0006, Contrast=0.1031
+Batch 600: Loss=1.1185, Sup=1.0315, Domain=0.0005, Contrast=0.0865
+Batch 700: Loss=1.3936, Sup=1.2895, Domain=0.0005, Contrast=0.1036
+Batch 800: Loss=1.4437, Sup=1.3743, Domain=0.0004, Contrast=0.0690
+Batch 900: Loss=0.8371, Sup=0.7096, Domain=0.0005, Contrast=0.1269
+
+--- Epoch 9: 2025-06-25 21:40:11.691381 ---
+Batch 0: Loss=0.9457, Sup=0.8534, Domain=0.0004, Contrast=0.0919
+Batch 100: Loss=1.4628, Sup=1.3319, Domain=0.0003, Contrast=0.1305
+Batch 200: Loss=0.7907, Sup=0.7032, Domain=0.0006, Contrast=0.0869
+Batch 300: Loss=1.1175, Sup=0.9575, Domain=0.0007, Contrast=0.1594
+Batch 400: Loss=1.1538, Sup=1.0597, Domain=0.0005, Contrast=0.0936
+Batch 500: Loss=1.0476, Sup=0.9438, Domain=0.0006, Contrast=0.1033
+Batch 600: Loss=1.2791, Sup=1.1616, Domain=0.0004, Contrast=0.1171
+Batch 700: Loss=1.3061, Sup=1.1546, Domain=0.0004, Contrast=0.1511
+Batch 800: Loss=1.0937, Sup=0.9707, Domain=0.0004, Contrast=0.1227
+Batch 900: Loss=1.0742, Sup=1.0009, Domain=0.0006, Contrast=0.0727
+
+--- Epoch 10: 2025-06-25 22:01:09.155846 ---
+Batch 0: Loss=1.5024, Sup=1.1398, Domain=0.0006, Contrast=0.3621
+Batch 100: Loss=2.1363, Sup=1.7952, Domain=0.0006, Contrast=0.3405
+Batch 200: Loss=1.8059, Sup=1.4115, Domain=0.0005, Contrast=0.3939
+Batch 300: Loss=1.7220, Sup=1.3914, Domain=0.0004, Contrast=0.3301
+Batch 400: Loss=1.5523, Sup=1.1920, Domain=0.0004, Contrast=0.3599
+Batch 500: Loss=1.2724, Sup=0.9386, Domain=0.0005, Contrast=0.3333
+Batch 600: Loss=1.2708, Sup=0.8985, Domain=0.0005, Contrast=0.3718
+Batch 700: Loss=1.0932, Sup=0.7436, Domain=0.0004, Contrast=0.3493
+Batch 800: Loss=1.3909, Sup=1.0648, Domain=0.0004, Contrast=0.3257
+Batch 900: Loss=1.5260, Sup=1.1894, Domain=0.0004, Contrast=0.3362
+
+
+--- Epoch 1: 2025-06-25 22:40:33.940273 ---
+Batch 100: Loss=0.8993, Sup=0.6453, Domain=0.2540, Contrast=0.0000
+Batch 200: Loss=1.3823, Sup=1.3063, Domain=0.0761, Contrast=0.0000
+Batch 300: Loss=0.9269, Sup=0.8880, Domain=0.0388, Contrast=0.0000
+Batch 400: Loss=1.2095, Sup=1.0555, Domain=0.0247, Contrast=0.1292
+Batch 500: Loss=1.5277, Sup=1.4023, Domain=0.0177, Contrast=0.1077
+
+--- Epoch 1: 2025-06-26 02:21:08.353417 ---
+Batch 100: Loss=1.1892, Sup=1.1547, Domain=0.0345, Contrast=0.0000
+Batch 200: Loss=1.5034, Sup=1.3790, Domain=0.1244, Contrast=0.0000
+Batch 300: Loss=1.4830, Sup=1.4327, Domain=0.0503, Contrast=0.0000
+Batch 400: Loss=2.5959, Sup=2.2312, Domain=0.0291, Contrast=0.3356
+Batch 500: Loss=1.0180, Sup=0.7830, Domain=0.0198, Contrast=0.2152
+Batch 600: Loss=1.1117, Sup=0.8839, Domain=0.0148, Contrast=0.2131
+Batch 700: Loss=1.5533, Sup=1.3717, Domain=0.0116, Contrast=0.1699
+Batch 800: Loss=0.6444, Sup=0.4494, Domain=0.0096, Contrast=0.1855
+Batch 900: Loss=1.2507, Sup=1.1081, Domain=0.0081, Contrast=0.1345
+Batch 1000: Loss=1.3650, Sup=1.1617, Domain=0.0070, Contrast=0.1964
+
+--- Epoch 2: 2025-06-26 02:41:57.751998 ---
+Batch 100: Loss=0.8642, Sup=0.7230, Domain=0.0061, Contrast=0.1352
+Batch 200: Loss=1.2984, Sup=1.1104, Domain=0.0055, Contrast=0.1825
+Batch 300: Loss=1.8961, Sup=1.7561, Domain=0.0049, Contrast=0.1351
+Batch 400: Loss=1.1582, Sup=1.0193, Domain=0.0044, Contrast=0.1345
+Batch 500: Loss=1.2097, Sup=0.9876, Domain=0.0041, Contrast=0.2180
+Batch 600: Loss=1.3810, Sup=1.2207, Domain=0.0037, Contrast=0.1565
+Batch 700: Loss=1.7330, Sup=1.5844, Domain=0.0035, Contrast=0.1451
+Batch 800: Loss=1.1322, Sup=0.9689, Domain=0.0032, Contrast=0.1601
+Batch 900: Loss=1.0349, Sup=0.8775, Domain=0.0030, Contrast=0.1543
+Batch 1000: Loss=1.0844, Sup=0.9217, Domain=0.0029, Contrast=0.1599
+
+--- Epoch 3: 2025-06-26 03:02:49.963560 ---
+Batch 100: Loss=1.6606, Sup=1.4802, Domain=0.0027, Contrast=0.1777
+Batch 200: Loss=1.3034, Sup=1.1265, Domain=0.0026, Contrast=0.1743
+Batch 300: Loss=1.0243, Sup=0.8014, Domain=0.0024, Contrast=0.2205
+Batch 400: Loss=1.3355, Sup=1.1445, Domain=0.0023, Contrast=0.1887
+Batch 500: Loss=1.0259, Sup=0.8511, Domain=0.0022, Contrast=0.1725
+Batch 600: Loss=1.6187, Sup=1.4122, Domain=0.0021, Contrast=0.2044
+Batch 700: Loss=1.4400, Sup=1.2622, Domain=0.0020, Contrast=0.1758
+Batch 800: Loss=0.6306, Sup=0.4444, Domain=0.0019, Contrast=0.1843
+Batch 900: Loss=1.3566, Sup=1.1578, Domain=0.0019, Contrast=0.1970
+Batch 1000: Loss=0.7173, Sup=0.5481, Domain=0.0018, Contrast=0.1674
+
+--- Epoch 4: 2025-06-26 03:23:56.809471 ---
+Batch 100: Loss=1.3069, Sup=1.1303, Domain=0.0018, Contrast=0.1749
+Batch 200: Loss=0.6745, Sup=0.4635, Domain=0.0017, Contrast=0.2093
+Batch 300: Loss=1.2387, Sup=1.0413, Domain=0.0016, Contrast=0.1958
+Batch 400: Loss=1.0701, Sup=0.8886, Domain=0.0016, Contrast=0.1799
+Batch 500: Loss=1.4772, Sup=1.2180, Domain=0.0015, Contrast=0.2576
+Batch 600: Loss=1.0703, Sup=0.8248, Domain=0.0015, Contrast=0.2440
+Batch 700: Loss=1.4531, Sup=1.2174, Domain=0.0015, Contrast=0.2342
+Batch 800: Loss=1.7131, Sup=1.5953, Domain=0.0014, Contrast=0.1164
+Batch 900: Loss=1.3249, Sup=1.1832, Domain=0.0014, Contrast=0.1403
+Batch 1000: Loss=0.8977, Sup=0.6437, Domain=0.0014, Contrast=0.2527
+
+--- Epoch 5: 2025-06-26 03:44:51.426091 ---
+Batch 100: Loss=1.1094, Sup=0.7970, Domain=0.0013, Contrast=0.3111
+Batch 200: Loss=1.1095, Sup=0.8470, Domain=0.0013, Contrast=0.2613
+Batch 300: Loss=1.1325, Sup=0.8128, Domain=0.0013, Contrast=0.3184
+Batch 400: Loss=1.4307, Sup=1.1249, Domain=0.0012, Contrast=0.3046
+Batch 500: Loss=1.3949, Sup=1.0992, Domain=0.0012, Contrast=0.2945
+Batch 600: Loss=1.2494, Sup=0.9757, Domain=0.0012, Contrast=0.2725
+Batch 700: Loss=0.9132, Sup=0.6423, Domain=0.0012, Contrast=0.2696
+Batch 800: Loss=1.0120, Sup=0.6572, Domain=0.0011, Contrast=0.3537
+Batch 900: Loss=1.2762, Sup=1.0269, Domain=0.0011, Contrast=0.2483
+Batch 1000: Loss=0.6592, Sup=0.5141, Domain=0.0011, Contrast=0.1440
+
+--- Epoch 6: 2025-06-26 04:05:45.006204 ---
+Batch 100: Loss=1.2457, Sup=0.9161, Domain=0.0011, Contrast=0.3286
+Batch 200: Loss=2.1088, Sup=1.7844, Domain=0.0011, Contrast=0.3233
+Batch 300: Loss=1.7260, Sup=1.4503, Domain=0.0011, Contrast=0.2747
+Batch 400: Loss=1.4263, Sup=1.1584, Domain=0.0010, Contrast=0.2669
+Batch 500: Loss=1.0235, Sup=0.6877, Domain=0.0010, Contrast=0.3348
+Batch 600: Loss=1.9924, Sup=1.7284, Domain=0.0010, Contrast=0.2630
+Batch 700: Loss=1.3770, Sup=1.1428, Domain=0.0010, Contrast=0.2332
+Batch 800: Loss=1.1506, Sup=0.8968, Domain=0.0010, Contrast=0.2529
+Batch 900: Loss=1.1330, Sup=0.8045, Domain=0.0010, Contrast=0.3276
+Batch 1000: Loss=1.1767, Sup=0.7853, Domain=0.0009, Contrast=0.3905
+
+--- Epoch 7: 2025-06-26 04:26:40.334154 ---
+Batch 100: Loss=1.0123, Sup=0.8642, Domain=0.0009, Contrast=0.1472
+Batch 200: Loss=1.3559, Sup=1.2293, Domain=0.0009, Contrast=0.1257
+Batch 300: Loss=0.9343, Sup=0.8097, Domain=0.0009, Contrast=0.1237
+Batch 400: Loss=1.2019, Sup=1.0728, Domain=0.0009, Contrast=0.1282
+Batch 500: Loss=0.4885, Sup=0.3188, Domain=0.0009, Contrast=0.1689
+Batch 600: Loss=1.4620, Sup=1.3223, Domain=0.0009, Contrast=0.1389
+Batch 700: Loss=0.4323, Sup=0.3051, Domain=0.0009, Contrast=0.1263
+Batch 800: Loss=1.6134, Sup=1.4850, Domain=0.0009, Contrast=0.1276
+Batch 900: Loss=1.2691, Sup=1.1662, Domain=0.0009, Contrast=0.1020
+Batch 1000: Loss=1.0837, Sup=0.9884, Domain=0.0008, Contrast=0.0945
+
+--- Epoch 8: 2025-06-26 04:47:35.582240 ---
+Batch 100: Loss=1.4575, Sup=1.1933, Domain=0.0008, Contrast=0.2633
+Batch 200: Loss=1.4362, Sup=1.1677, Domain=0.0008, Contrast=0.2676
+Batch 300: Loss=1.3480, Sup=1.0598, Domain=0.0008, Contrast=0.2874
+Batch 400: Loss=1.5235, Sup=1.2271, Domain=0.0008, Contrast=0.2956
+Batch 500: Loss=0.8082, Sup=0.6142, Domain=0.0008, Contrast=0.1932
+Batch 600: Loss=0.5968, Sup=0.3052, Domain=0.0008, Contrast=0.2908
+Batch 700: Loss=0.6004, Sup=0.3348, Domain=0.0008, Contrast=0.2648
+Batch 800: Loss=1.5570, Sup=1.3063, Domain=0.0008, Contrast=0.2500
+Batch 900: Loss=0.8341, Sup=0.5233, Domain=0.0008, Contrast=0.3100
+Batch 1000: Loss=0.5837, Sup=0.2866, Domain=0.0008, Contrast=0.2963
+
+--- Epoch 9: 2025-06-26 05:08:31.224237 ---
+Batch 100: Loss=1.5170, Sup=1.3539, Domain=0.0008, Contrast=0.1623
+Batch 200: Loss=1.3123, Sup=1.0657, Domain=0.0008, Contrast=0.2458
+Batch 300: Loss=1.0323, Sup=0.7591, Domain=0.0008, Contrast=0.2724
+Batch 400: Loss=0.5232, Sup=0.3687, Domain=0.0008, Contrast=0.1537
+Batch 500: Loss=1.2212, Sup=0.9848, Domain=0.0007, Contrast=0.2356
+Batch 600: Loss=1.7070, Sup=1.4802, Domain=0.0007, Contrast=0.2261
+Batch 700: Loss=0.8283, Sup=0.7122, Domain=0.0007, Contrast=0.1153
+Batch 800: Loss=0.6036, Sup=0.3987, Domain=0.0007, Contrast=0.2042
+Batch 900: Loss=1.5376, Sup=1.2393, Domain=0.0007, Contrast=0.2975
+Batch 1000: Loss=0.9160, Sup=0.7600, Domain=0.0007, Contrast=0.1552
+
+--- Epoch 10: 2025-06-26 05:29:27.459537 ---
+Batch 100: Loss=0.9557, Sup=0.8473, Domain=0.0007, Contrast=0.1076
+Batch 200: Loss=1.2781, Sup=1.2012, Domain=0.0007, Contrast=0.0762
+Batch 300: Loss=1.1548, Sup=1.0736, Domain=0.0007, Contrast=0.0804
+Batch 400: Loss=1.2136, Sup=1.1448, Domain=0.0007, Contrast=0.0680
+Batch 500: Loss=0.7788, Sup=0.7170, Domain=0.0007, Contrast=0.0611
+Batch 600: Loss=0.8441, Sup=0.7456, Domain=0.0007, Contrast=0.0978
+Batch 700: Loss=1.1500, Sup=1.0632, Domain=0.0007, Contrast=0.0862
+Batch 800: Loss=0.5949, Sup=0.5362, Domain=0.0007, Contrast=0.0579
+Batch 900: Loss=0.9315, Sup=0.8530, Domain=0.0007, Contrast=0.0778
+Batch 1000: Loss=0.9577, Sup=0.9167, Domain=0.0007, Contrast=0.0404
+
+--- Epoch 1: 2025-06-26 11:43:00.574695 ---
+Batch 100: Loss=1.3359, Sup=1.3068, Domain=0.0290, Contrast=0.0000
+Batch 200: Loss=1.0776, Sup=0.7540, Domain=0.3237, Contrast=0.0000
+Batch 300: Loss=1.3430, Sup=1.1067, Domain=0.0734, Contrast=0.1629
+Batch 400: Loss=0.6591, Sup=0.5465, Domain=0.0359, Contrast=0.0768
+Batch 500: Loss=1.1179, Sup=0.9592, Domain=0.0010, Contrast=0.1577
+
+--- Epoch 1: 2025-06-26 11:55:50.830147 ---
+Batch 100: Loss=1.1979, Sup=1.1668, Domain=0.0311, Contrast=0.0000
+Batch 200: Loss=1.6740, Sup=1.6208, Domain=0.0531, Contrast=0.0000
+Batch 300: Loss=1.5101, Sup=1.3972, Domain=0.1129, Contrast=0.0000
+Batch 400: Loss=1.5616, Sup=1.1503, Domain=0.0455, Contrast=0.3658
+Batch 500: Loss=1.9058, Sup=1.7018, Domain=0.0002, Contrast=0.2037
+Batch 600: Loss=1.4904, Sup=1.2826, Domain=0.0002, Contrast=0.2076
+Batch 700: Loss=1.8549, Sup=1.5649, Domain=0.0025, Contrast=0.2875
+Batch 800: Loss=1.7385, Sup=1.5346, Domain=0.0007, Contrast=0.2032
+Batch 900: Loss=1.3460, Sup=1.1972, Domain=0.0043, Contrast=0.1445
+Batch 1000: Loss=1.3097, Sup=1.0586, Domain=0.0052, Contrast=0.2459
+Batch 1100: Loss=1.6266, Sup=1.4410, Domain=0.0114, Contrast=0.1743
+Batch 1200: Loss=1.3056, Sup=1.0810, Domain=0.0095, Contrast=0.2151
+Batch 1300: Loss=1.7000, Sup=1.4409, Domain=0.0089, Contrast=0.2502
+Batch 1400: Loss=1.6625, Sup=1.5030, Domain=0.0001, Contrast=0.1594
+Batch 1500: Loss=1.0743, Sup=0.8811, Domain=0.0077, Contrast=0.1855
+Batch 1600: Loss=1.5360, Sup=1.2856, Domain=0.0041, Contrast=0.2463
+Batch 1700: Loss=1.4991, Sup=1.2690, Domain=0.0069, Contrast=0.2232
+Batch 1800: Loss=1.5724, Sup=1.3100, Domain=0.0062, Contrast=0.2562
+Batch 1900: Loss=1.5104, Sup=1.2285, Domain=0.0054, Contrast=0.2764
+Batch 2000: Loss=0.7622, Sup=0.6652, Domain=0.0000, Contrast=0.0970
+Batch 2100: Loss=1.2488, Sup=1.1142, Domain=0.0030, Contrast=0.1316
+Batch 2200: Loss=1.6554, Sup=1.4235, Domain=0.0004, Contrast=0.2316
+Batch 2300: Loss=1.1255, Sup=0.8669, Domain=0.0043, Contrast=0.2544
+Batch 2400: Loss=0.6647, Sup=0.5115, Domain=0.0000, Contrast=0.1531
+Batch 2500: Loss=0.6612, Sup=0.4854, Domain=0.0000, Contrast=0.1758
+
+--- Epoch 2: 2025-06-26 12:49:28.906313 ---
+Batch 100: Loss=1.5229, Sup=1.2015, Domain=0.0039, Contrast=0.3175
+
+--- Epoch 1: 2025-06-26 14:56:36.340756 ---
+Batch 100: Loss=0.9021, Sup=0.8838, Domain=0.0183, Contrast=0.0000
+Batch 200: Loss=1.3360, Sup=1.3275, Domain=0.0085, Contrast=0.0000
+Batch 300: Loss=0.6993, Sup=0.6940, Domain=0.0054, Contrast=0.0000
+                                                                                                                                                                                                                                                                                                                                                                                                                                Batch 400: Loss=1.1390, Sup=0.8856, Domain=0.0082, Contrast=0.2453
+Batch 500: Loss=1.4120, Sup=1.1358, Domain=0.0032, Contrast=0.2730
+Batch 600: Loss=1.4816, Sup=1.4179, Domain=0.0041, Contrast=0.0595
+Batch 700: Loss=1.5896, Sup=1.4887, Domain=0.0032, Contrast=0.0976
+Batch 800: Loss=1.1953, Sup=1.0482, Domain=0.0035, Contrast=0.1437
+Batch 900: Loss=1.2357, Sup=1.0160, Domain=0.0027, Contrast=0.2170
+Batch 1000: Loss=1.2101, Sup=0.8642, Domain=0.0037, Contrast=0.3422
+Batch 1100: Loss=1.7823, Sup=1.6315, Domain=0.0031, Contrast=0.1477
+Batch 1200: Loss=1.1880, Sup=1.0656, Domain=0.0024, Contrast=0.1200
+Batch 1300: Loss=1.5801, Sup=1.4407, Domain=0.0025, Contrast=0.1369
+Batch 1400: Loss=2.1501, Sup=1.6639, Domain=0.3361, Contrast=0.1502
+Batch 1500: Loss=1.3673, Sup=1.1047, Domain=0.0636, Contrast=0.1990
+Batch 1600: Loss=1.3835, Sup=1.1957, Domain=0.0306, Contrast=0.1572
+Batch 1700: Loss=1.8938, Sup=1.5065, Domain=0.0194, Contrast=0.3680
+Batch 1800: Loss=1.3768, Sup=1.1483, Domain=0.0140, Contrast=0.2145
+Batch 1900: Loss=1.4865, Sup=1.3773, Domain=0.0108, Contrast=0.0984
+Batch 2000: Loss=1.5392, Sup=1.3807, Domain=0.0088, Contrast=0.1497
+Batch 2100: Loss=1.2535, Sup=1.1286, Domain=0.0074, Contrast=0.1175
+Batch 2200: Loss=1.1529, Sup=0.9665, Domain=0.0063, Contrast=0.1801
+Batch 2300: Loss=1.3100, Sup=1.2116, Domain=0.0055, Contrast=0.0929
+Batch 2400: Loss=1.3776, Sup=1.1802, Domain=0.0049, Contrast=0.1925
+Batch 2500: Loss=1.2857, Sup=1.2086, Domain=0.0044, Contrast=0.0727
+
+--- Epoch 2: 2025-06-26 15:09:52.596300 ---
+Batch 100: Loss=0.9994, Sup=0.7822, Domain=0.0039, Contrast=0.2133
+Batch 200: Loss=1.4622, Sup=1.3037, Domain=0.0036, Contrast=0.1549
+Batch 300: Loss=0.9125, Sup=0.7437, Domain=0.0033, Contrast=0.1655
+Batch 400: Loss=1.6100, Sup=1.4577, Domain=0.0031, Contrast=0.1493
+Batch 500: Loss=1.0038, Sup=0.8825, Domain=0.0029, Contrast=0.1184
+Batch 600: Loss=1.1246, Sup=0.9046, Domain=0.0026, Contrast=0.2174
+
+--- Epoch 1: 2025-06-26 15:23:44.357480 ---
+
+--- Epoch 1: 2025-06-26 15:35:00.934628 ---
+
+--- Epoch 1: 2025-06-26 15:36:04.448906 ---
+
+--- Epoch 1: 2025-06-26 15:36:54.789020 ---
+
+--- Epoch 1: 2025-06-26 17:43:28.783687 ---
+Batch 100: Loss=2.0236, Sup=2.0039, Domain=0.0197, Contrast=0.0000
+Batch 200: Loss=1.9655, Sup=1.9423, Domain=0.0232, Contrast=0.0000
+Batch 300: Loss=1.0600, Sup=1.0432, Domain=0.0168, Contrast=0.0000
+
+--- Epoch 1: 2025-06-26 17:45:54.021453 ---
+
+--- Epoch 1: 2025-06-26 17:46:15.778721 ---
+Batch 100: Loss=1.0947, Sup=1.0806, Domain=0.0140, Contrast=0.0000
+Batch 200: Loss=1.3956, Sup=1.3316, Domain=0.0101, Contrast=0.0538
+Batch 300: Loss=1.3208, Sup=1.1411, Domain=0.0062, Contrast=0.1735
+Batch 400: Loss=1.4941, Sup=1.3427, Domain=0.0052, Contrast=0.1463
+Batch 500: Loss=1.0932, Sup=0.9044, Domain=0.0038, Contrast=0.1850
+Batch 600: Loss=1.4404, Sup=1.2975, Domain=0.0037, Contrast=0.1392
+
+--- Epoch 2: 2025-06-26 17:56:59.400367 ---
+Batch 100: Loss=1.2715, Sup=0.9668, Domain=0.0045, Contrast=0.3003
+Batch 200: Loss=1.3506, Sup=1.1002, Domain=0.0028, Contrast=0.2476
+Batch 300: Loss=1.3620, Sup=1.0534, Domain=0.0023, Contrast=0.3064
+Batch 400: Loss=1.6972, Sup=1.4292, Domain=0.0024, Contrast=0.2656
+Batch 500: Loss=1.5466, Sup=1.2928, Domain=0.0025, Contrast=0.2513
+Batch 600: Loss=1.3157, Sup=0.9910, Domain=0.0017, Contrast=0.3230
+
+--- Epoch 3: 2025-06-26 18:07:43.316060 ---
+Batch 100: Loss=1.3852, Sup=1.0830, Domain=0.0015, Contrast=0.3007
+Batch 200: Loss=1.4533, Sup=1.1371, Domain=0.0017, Contrast=0.3145
+Batch 300: Loss=1.1923, Sup=0.8706, Domain=0.0018, Contrast=0.3199
+Batch 400: Loss=1.1007, Sup=0.8211, Domain=0.0014, Contrast=0.2782
+Batch 500: Loss=1.4788, Sup=1.2281, Domain=0.0011, Contrast=0.2496
+Batch 600: Loss=1.2897, Sup=0.9966, Domain=0.0016, Contrast=0.2915
+
+--- Epoch 4: 2025-06-26 18:18:28.437749 ---
+Batch 100: Loss=1.0157, Sup=0.9090, Domain=0.0016, Contrast=0.1051
+Batch 200: Loss=1.0328, Sup=0.9090, Domain=0.0021, Contrast=0.1217
+Batch 300: Loss=1.0550, Sup=0.9208, Domain=0.0031, Contrast=0.1310
+Batch 400: Loss=1.2520, Sup=1.1308, Domain=0.0013, Contrast=0.1199
+Batch 500: Loss=1.1368, Sup=0.9990, Domain=0.0049, Contrast=0.1329
+Batch 600: Loss=1.1577, Sup=1.0291, Domain=0.0033, Contrast=0.1253
+
+--- Epoch 5: 2025-06-26 18:29:14.680855 ---
+Batch 100: Loss=1.2449, Sup=0.8504, Domain=0.0595, Contrast=0.3350
+Batch 200: Loss=1.4093, Sup=1.1007, Domain=0.0285, Contrast=0.2801
+Batch 300: Loss=1.4397, Sup=1.0862, Domain=0.0184, Contrast=0.3351
+Batch 400: Loss=1.2393, Sup=0.9053, Domain=0.0129, Contrast=0.3211
+Batch 500: Loss=1.2092, Sup=0.8738, Domain=0.0103, Contrast=0.3251
+Batch 600: Loss=1.3769, Sup=1.0646, Domain=0.0084, Contrast=0.3038
+
+--- Epoch 6: 2025-06-26 18:40:00.843614 ---
+Batch 100: Loss=1.2562, Sup=1.1198, Domain=0.0067, Contrast=0.1297
+Batch 200: Loss=1.0552, Sup=0.9411, Domain=0.0058, Contrast=0.1083
+Batch 300: Loss=1.0247, Sup=0.9247, Domain=0.0051, Contrast=0.0948
+Batch 400: Loss=1.1636, Sup=1.0513, Domain=0.0046, Contrast=0.1077
+Batch 500: Loss=1.2328, Sup=1.0865, Domain=0.0041, Contrast=0.1421
+Batch 600: Loss=1.3125, Sup=1.1679, Domain=0.0038, Contrast=0.1409
+
+--- Epoch 7: 2025-06-26 18:50:47.363813 ---
+Batch 100: Loss=1.2904, Sup=1.0977, Domain=0.0034, Contrast=0.1894
+Batch 200: Loss=1.3147, Sup=1.1339, Domain=0.0031, Contrast=0.1777
+Batch 300: Loss=1.2607, Sup=1.0561, Domain=0.0029, Contrast=0.2017
+Batch 400: Loss=0.9821, Sup=0.7840, Domain=0.0027, Contrast=0.1954
+Batch 500: Loss=1.4113, Sup=1.1623, Domain=0.0026, Contrast=0.2464
+Batch 600: Loss=1.1304, Sup=0.9277, Domain=0.0024, Contrast=0.2003
+
+--- Epoch 8: 2025-06-26 19:01:34.285409 ---
+Batch 100: Loss=1.2219, Sup=0.9704, Domain=0.0022, Contrast=0.2492
+Batch 200: Loss=1.2937, Sup=1.0462, Domain=0.0021, Contrast=0.2454
+Batch 300: Loss=1.4254, Sup=1.1708, Domain=0.0020, Contrast=0.2526
+Batch 400: Loss=1.2398, Sup=0.9885, Domain=0.0020, Contrast=0.2493
+Batch 500: Loss=1.1387, Sup=0.8559, Domain=0.0019, Contrast=0.2809
+Batch 600: Loss=1.1512, Sup=0.8846, Domain=0.0018, Contrast=0.2648
+
+--- Epoch 9: 2025-06-26 19:12:20.864843 ---
+Batch 100: Loss=1.2173, Sup=0.9845, Domain=0.0017, Contrast=0.2311
+Batch 200: Loss=1.0300, Sup=0.7669, Domain=0.0016, Contrast=0.2614
+Batch 300: Loss=1.0728, Sup=0.7923, Domain=0.0016, Contrast=0.2789
+Batch 400: Loss=1.1998, Sup=0.9585, Domain=0.0015, Contrast=0.2397
+Batch 500: Loss=1.0714, Sup=0.8230, Domain=0.0015, Contrast=0.2470
+Batch 600: Loss=1.0588, Sup=0.7982, Domain=0.0014, Contrast=0.2592
+
+--- Epoch 10: 2025-06-26 19:23:08.000041 ---
+Batch 100: Loss=1.4338, Sup=1.0645, Domain=0.0014, Contrast=0.3679
+Batch 200: Loss=1.4818, Sup=1.1030, Domain=0.0014, Contrast=0.3774
+Batch 300: Loss=1.3764, Sup=1.0066, Domain=0.0013, Contrast=0.3685
+Batch 400: Loss=1.1956, Sup=0.7729, Domain=0.0013, Contrast=0.4214
+Batch 500: Loss=1.2075, Sup=0.8169, Domain=0.0013, Contrast=0.3893
+Batch 600: Loss=1.4092, Sup=1.0435, Domain=0.0012, Contrast=0.3645
+
+--- Epoch 11: 2025-06-26 19:33:55.655753 ---
+Batch 100: Loss=1.1557, Sup=0.8659, Domain=0.0012, Contrast=0.2886
+Batch 200: Loss=1.2625, Sup=0.9693, Domain=0.0012, Contrast=0.2921
+Batch 300: Loss=1.0483, Sup=0.7698, Domain=0.0011, Contrast=0.2773
+Batch 400: Loss=1.2941, Sup=1.0465, Domain=0.0011, Contrast=0.2465
+Batch 500: Loss=1.0218, Sup=0.7529, Domain=0.0011, Contrast=0.2678
+Batch 600: Loss=1.3513, Sup=1.0281, Domain=0.0011, Contrast=0.3220
+
+--- Epoch 12: 2025-06-26 19:44:42.989956 ---
+Batch 100: Loss=1.1109, Sup=0.8660, Domain=0.0010, Contrast=0.2439
+Batch 200: Loss=1.1637, Sup=0.9323, Domain=0.0010, Contrast=0.2304
+Batch 300: Loss=1.1065, Sup=0.8878, Domain=0.0010, Contrast=0.2176
+Batch 400: Loss=1.2675, Sup=1.0543, Domain=0.0010, Contrast=0.2122
+Batch 500: Loss=1.0451, Sup=0.8057, Domain=0.0010, Contrast=0.2384
+Batch 600: Loss=0.9477, Sup=0.7071, Domain=0.0010, Contrast=0.2397
+
+--- Epoch 13: 2025-06-26 19:55:30.088205 ---
+Batch 100: Loss=1.1722, Sup=0.9026, Domain=0.0009, Contrast=0.2686
+Batch 200: Loss=1.2210, Sup=0.9695, Domain=0.0009, Contrast=0.2506
+Batch 300: Loss=0.7444, Sup=0.4976, Domain=0.0009, Contrast=0.2458
+Batch 400: Loss=1.0416, Sup=0.7561, Domain=0.0009, Contrast=0.2845
+Batch 500: Loss=1.0032, Sup=0.7557, Domain=0.0009, Contrast=0.2467
+Batch 600: Loss=1.1921, Sup=0.9650, Domain=0.0009, Contrast=0.2263
+
+--- Epoch 14: 2025-06-26 20:06:17.437592 ---
+Batch 100: Loss=1.0705, Sup=0.9358, Domain=0.0009, Contrast=0.1339
+Batch 200: Loss=1.0484, Sup=0.9195, Domain=0.0009, Contrast=0.1281
+Batch 300: Loss=1.0869, Sup=0.9406, Domain=0.0008, Contrast=0.1454
+Batch 400: Loss=1.1972, Sup=1.0465, Domain=0.0008, Contrast=0.1499
+Batch 500: Loss=1.1313, Sup=0.9776, Domain=0.0008, Contrast=0.1528
+Batch 600: Loss=0.8394, Sup=0.7108, Domain=0.0008, Contrast=0.1278
+
+--- Epoch 15: 2025-06-26 20:17:05.843869 ---
+Batch 100: Loss=1.1900, Sup=0.9311, Domain=0.0008, Contrast=0.2580
+Batch 200: Loss=1.1725, Sup=0.9831, Domain=0.0008, Contrast=0.1886
+Batch 300: Loss=1.0316, Sup=0.7930, Domain=0.0008, Contrast=0.2378
+Batch 400: Loss=1.0035, Sup=0.7244, Domain=0.0008, Contrast=0.2784
+Batch 500: Loss=1.2237, Sup=0.9145, Domain=0.0008, Contrast=0.3084
+Batch 600: Loss=1.1138, Sup=0.8774, Domain=0.0008, Contrast=0.2356
+
+--- Epoch 16: 2025-06-26 20:27:54.406081 ---
+Batch 100: Loss=1.0303, Sup=0.7839, Domain=0.0008, Contrast=0.2456
+Batch 200: Loss=1.2302, Sup=1.0088, Domain=0.0008, Contrast=0.2206
+Batch 300: Loss=1.1003, Sup=0.8633, Domain=0.0007, Contrast=0.2362
+Batch 400: Loss=1.0509, Sup=0.8416, Domain=0.0007, Contrast=0.2086
+Batch 500: Loss=1.0913, Sup=0.8349, Domain=0.0007, Contrast=0.2557
+Batch 600: Loss=1.0380, Sup=0.8045, Domain=0.0007, Contrast=0.2327
+
+--- Epoch 17: 2025-06-26 20:38:42.593397 ---
+Batch 100: Loss=1.1155, Sup=0.8874, Domain=0.0007, Contrast=0.2273
+Batch 200: Loss=1.0958, Sup=0.8827, Domain=0.0007, Contrast=0.2123
+Batch 300: Loss=1.0919, Sup=0.8717, Domain=0.0007, Contrast=0.2195
+Batch 400: Loss=1.1961, Sup=0.9768, Domain=0.0007, Contrast=0.2186
+Batch 500: Loss=1.0870, Sup=0.8193, Domain=0.0007, Contrast=0.2670
+Batch 600: Loss=1.1127, Sup=0.9150, Domain=0.0007, Contrast=0.1970
+
+--- Epoch 18: 2025-06-26 20:49:31.197125 ---
+Batch 100: Loss=0.9476, Sup=0.8338, Domain=0.0007, Contrast=0.1131
+Batch 200: Loss=0.9100, Sup=0.7939, Domain=0.0007, Contrast=0.1154
+Batch 300: Loss=1.0607, Sup=0.9238, Domain=0.0007, Contrast=0.1363
+Batch 400: Loss=0.7079, Sup=0.5646, Domain=0.0007, Contrast=0.1426
+Batch 500: Loss=0.8330, Sup=0.7116, Domain=0.0007, Contrast=0.1207
+Batch 600: Loss=0.8524, Sup=0.7189, Domain=0.0007, Contrast=0.1328
+
+--- Epoch 19: 2025-06-26 21:00:19.343458 ---
+Batch 100: Loss=1.0557, Sup=0.7752, Domain=0.0007, Contrast=0.2799
+Batch 200: Loss=1.3704, Sup=1.0752, Domain=0.0007, Contrast=0.2945
+Batch 300: Loss=1.2031, Sup=0.9122, Domain=0.0007, Contrast=0.2903
+Batch 400: Loss=1.1486, Sup=0.8070, Domain=0.0007, Contrast=0.3409
+Batch 500: Loss=1.1920, Sup=0.8681, Domain=0.0006, Contrast=0.3233
+Batch 600: Loss=1.1732, Sup=0.8822, Domain=0.0006, Contrast=0.2903
+
+--- Epoch 20: 2025-06-26 21:11:08.533536 ---
+Batch 100: Loss=1.1255, Sup=0.8987, Domain=0.0006, Contrast=0.2261
+Batch 200: Loss=0.6487, Sup=0.4360, Domain=0.0006, Contrast=0.2120
+Batch 300: Loss=1.1800, Sup=0.9501, Domain=0.0006, Contrast=0.2292
+Batch 400: Loss=1.1453, Sup=0.9135, Domain=0.0006, Contrast=0.2311
+Batch 500: Loss=1.2039, Sup=0.9874, Domain=0.0006, Contrast=0.2159
+Batch 600: Loss=1.2017, Sup=0.9390, Domain=0.0006, Contrast=0.2621
+
+--- Epoch 21: 2025-06-26 21:21:57.265376 ---
+Batch 100: Loss=1.0825, Sup=0.9103, Domain=0.0006, Contrast=0.1716
+Batch 200: Loss=0.9208, Sup=0.7421, Domain=0.0006, Contrast=0.1780
+Batch 300: Loss=1.0763, Sup=0.8852, Domain=0.0006, Contrast=0.1906
+Batch 400: Loss=0.8757, Sup=0.6862, Domain=0.0006, Contrast=0.1889
+Batch 500: Loss=0.9000, Sup=0.6992, Domain=0.0006, Contrast=0.2001
+Batch 600: Loss=0.8527, Sup=0.6758, Domain=0.0006, Contrast=0.1763
+
+--- Epoch 22: 2025-06-26 21:32:46.195236 ---
+Batch 100: Loss=1.1338, Sup=0.8584, Domain=0.0006, Contrast=0.2748
+Batch 200: Loss=0.9603, Sup=0.7215, Domain=0.0006, Contrast=0.2382
+Batch 300: Loss=0.8494, Sup=0.6196, Domain=0.0006, Contrast=0.2292
+Batch 400: Loss=1.0479, Sup=0.8337, Domain=0.0006, Contrast=0.2136
+Batch 500: Loss=1.0403, Sup=0.8400, Domain=0.0006, Contrast=0.1997
+Batch 600: Loss=1.2902, Sup=1.0742, Domain=0.0006, Contrast=0.2154
+
+--- Epoch 23: 2025-06-26 21:43:37.996729 ---
+Batch 100: Loss=1.1616, Sup=1.0436, Domain=0.0006, Contrast=0.1174
+Batch 200: Loss=0.8444, Sup=0.7246, Domain=0.0006, Contrast=0.1193
+Batch 300: Loss=0.7867, Sup=0.6824, Domain=0.0006, Contrast=0.1037
+Batch 400: Loss=0.7993, Sup=0.6886, Domain=0.0006, Contrast=0.1101
+Batch 500: Loss=1.1073, Sup=0.9908, Domain=0.0006, Contrast=0.1159
+Batch 600: Loss=0.9579, Sup=0.8407, Domain=0.0006, Contrast=0.1166
+
+--- Epoch 24: 2025-06-26 21:54:46.316407 ---
+Batch 100: Loss=0.8399, Sup=0.6758, Domain=0.0006, Contrast=0.1635
+Batch 200: Loss=1.0193, Sup=0.8750, Domain=0.0006, Contrast=0.1437
+Batch 300: Loss=0.7375, Sup=0.5865, Domain=0.0006, Contrast=0.1504
+Batch 400: Loss=1.1843, Sup=1.0054, Domain=0.0006, Contrast=0.1783
+Batch 500: Loss=1.1680, Sup=0.9965, Domain=0.0006, Contrast=0.1709
+Batch 600: Loss=0.9662, Sup=0.7568, Domain=0.0006, Contrast=0.2088
+
+--- Epoch 25: 2025-06-26 22:05:47.226461 ---
+Batch 100: Loss=1.0985, Sup=0.9812, Domain=0.0006, Contrast=0.1167
+Batch 200: Loss=0.8822, Sup=0.7148, Domain=0.0006, Contrast=0.1668
+Batch 300: Loss=1.0402, Sup=0.8766, Domain=0.0006, Contrast=0.1630
+Batch 400: Loss=0.8165, Sup=0.6842, Domain=0.0006, Contrast=0.1318
+Batch 500: Loss=0.9379, Sup=0.8179, Domain=0.0006, Contrast=0.1194
+Batch 600: Loss=0.8082, Sup=0.6670, Domain=0.0006, Contrast=0.1406
+
+--- Epoch 26: 2025-06-26 22:17:08.907486 ---
+Batch 100: Loss=0.7625, Sup=0.6427, Domain=0.0006, Contrast=0.1192
+Batch 200: Loss=0.8488, Sup=0.7194, Domain=0.0006, Contrast=0.1289
+Batch 300: Loss=0.9433, Sup=0.7695, Domain=0.0006, Contrast=0.1732
+Batch 400: Loss=0.8451, Sup=0.7048, Domain=0.0006, Contrast=0.1398
+Batch 500: Loss=1.0971, Sup=0.9396, Domain=0.0006, Contrast=0.1570
+Batch 600: Loss=1.1150, Sup=0.9820, Domain=0.0006, Contrast=0.1325
+
+--- Epoch 27: 2025-06-26 22:28:06.642736 ---
+Batch 100: Loss=1.2346, Sup=0.9984, Domain=0.0006, Contrast=0.2357
+Batch 200: Loss=0.7273, Sup=0.5096, Domain=0.0006, Contrast=0.2171
+Batch 300: Loss=1.1068, Sup=0.8734, Domain=0.0006, Contrast=0.2328
+Batch 400: Loss=1.0499, Sup=0.8085, Domain=0.0006, Contrast=0.2409
+Batch 500: Loss=1.0947, Sup=0.8573, Domain=0.0006, Contrast=0.2368
+Batch 600: Loss=1.0840, Sup=0.8267, Domain=0.0005, Contrast=0.2567
+
+--- Epoch 28: 2025-06-26 22:38:56.287183 ---
+Batch 100: Loss=0.8700, Sup=0.6406, Domain=0.0005, Contrast=0.2289
+Batch 200: Loss=0.9234, Sup=0.6863, Domain=0.0005, Contrast=0.2365
+Batch 300: Loss=0.9420, Sup=0.7538, Domain=0.0005, Contrast=0.1876
+Batch 400: Loss=0.9739, Sup=0.7429, Domain=0.0005, Contrast=0.2304
+Batch 500: Loss=0.8569, Sup=0.6199, Domain=0.0005, Contrast=0.2365
+Batch 600: Loss=0.7851, Sup=0.5752, Domain=0.0005, Contrast=0.2093
+
+--- Epoch 29: 2025-06-26 22:49:46.325143 ---
+Batch 100: Loss=1.0249, Sup=0.7612, Domain=0.0005, Contrast=0.2632
+Batch 200: Loss=1.0507, Sup=0.7218, Domain=0.0005, Contrast=0.3283
+Batch 300: Loss=1.1015, Sup=0.8363, Domain=0.0005, Contrast=0.2646
+Batch 400: Loss=1.1177, Sup=0.8292, Domain=0.0005, Contrast=0.2879
+Batch 500: Loss=1.1960, Sup=0.9118, Domain=0.0005, Contrast=0.2836
+Batch 600: Loss=0.8892, Sup=0.6020, Domain=0.0005, Contrast=0.2867
+
+--- Epoch 30: 2025-06-26 23:00:36.094831 ---
+Batch 100: Loss=1.1433, Sup=0.8240, Domain=0.0005, Contrast=0.3188
+Batch 200: Loss=1.0873, Sup=0.6874, Domain=0.0005, Contrast=0.3994
+Batch 300: Loss=1.1134, Sup=0.7563, Domain=0.0005, Contrast=0.3566
+Batch 400: Loss=1.1714, Sup=0.8478, Domain=0.0005, Contrast=0.3231
+Batch 500: Loss=0.8983, Sup=0.5673, Domain=0.0005, Contrast=0.3305
+Batch 600: Loss=1.2752, Sup=0.8715, Domain=0.0005, Contrast=0.4031
+
+--- Epoch 31: 2025-06-26 23:11:25.991424 ---
+Batch 100: Loss=1.1137, Sup=0.8879, Domain=0.0005, Contrast=0.2253
+Batch 200: Loss=1.2263, Sup=1.0099, Domain=0.0005, Contrast=0.2159
+Batch 300: Loss=0.8480, Sup=0.6589, Domain=0.0005, Contrast=0.1885
+Batch 400: Loss=1.0473, Sup=0.8305, Domain=0.0005, Contrast=0.2163
+Batch 500: Loss=0.8837, Sup=0.6720, Domain=0.0005, Contrast=0.2111
+Batch 600: Loss=1.1215, Sup=0.8722, Domain=0.0005, Contrast=0.2488
+
+--- Epoch 32: 2025-06-26 23:22:16.700837 ---
+Batch 100: Loss=0.8984, Sup=0.7498, Domain=0.0005, Contrast=0.1481
+Batch 200: Loss=0.9403, Sup=0.7860, Domain=0.0005, Contrast=0.1538
+Batch 300: Loss=0.6883, Sup=0.5855, Domain=0.0005, Contrast=0.1023
+Batch 400: Loss=0.8088, Sup=0.7076, Domain=0.0005, Contrast=0.1007
+Batch 500: Loss=0.8528, Sup=0.7152, Domain=0.0005, Contrast=0.1371
+Batch 600: Loss=0.9032, Sup=0.7567, Domain=0.0005, Contrast=0.1460
+
+--- Epoch 33: 2025-06-26 23:33:07.072096 ---
+Batch 100: Loss=1.0229, Sup=0.8391, Domain=0.0005, Contrast=0.1832
+Batch 200: Loss=0.7732, Sup=0.5971, Domain=0.0005, Contrast=0.1756
+Batch 300: Loss=0.7511, Sup=0.5804, Domain=0.0005, Contrast=0.1702
+Batch 400: Loss=1.0049, Sup=0.8410, Domain=0.0005, Contrast=0.1634
+Batch 500: Loss=0.7774, Sup=0.6130, Domain=0.0005, Contrast=0.1639
+Batch 600: Loss=0.9827, Sup=0.8194, Domain=0.0005, Contrast=0.1627
+
+--- Epoch 34: 2025-06-26 23:43:57.646626 ---
+Batch 100: Loss=0.9742, Sup=0.7763, Domain=0.0005, Contrast=0.1975
+Batch 200: Loss=0.9048, Sup=0.7175, Domain=0.0005, Contrast=0.1867
+Batch 300: Loss=0.8542, Sup=0.6422, Domain=0.0005, Contrast=0.2115
+Batch 400: Loss=0.9047, Sup=0.7130, Domain=0.0005, Contrast=0.1912
+Batch 500: Loss=0.8369, Sup=0.6718, Domain=0.0005, Contrast=0.1646
+Batch 600: Loss=0.8090, Sup=0.6399, Domain=0.0005, Contrast=0.1685
+
+--- Epoch 35: 2025-06-26 23:54:47.843495 ---
+Batch 100: Loss=0.9805, Sup=0.7313, Domain=0.0005, Contrast=0.2486
+Batch 200: Loss=1.0536, Sup=0.7316, Domain=0.0005, Contrast=0.3215
+Batch 300: Loss=0.9786, Sup=0.6438, Domain=0.0005, Contrast=0.3343
+Batch 400: Loss=1.0202, Sup=0.7458, Domain=0.0005, Contrast=0.2738
+Batch 500: Loss=1.1817, Sup=0.8802, Domain=0.0005, Contrast=0.3010
+Batch 600: Loss=0.8497, Sup=0.5360, Domain=0.0005, Contrast=0.3131
+
+--- Epoch 36: 2025-06-27 00:05:37.958745 ---
+Batch 100: Loss=0.8549, Sup=0.7029, Domain=0.0005, Contrast=0.1516
+Batch 200: Loss=1.1301, Sup=0.9224, Domain=0.0005, Contrast=0.2071
+Batch 300: Loss=0.7396, Sup=0.5715, Domain=0.0005, Contrast=0.1675
+Batch 400: Loss=0.7926, Sup=0.6361, Domain=0.0005, Contrast=0.1559
+Batch 500: Loss=0.8721, Sup=0.7014, Domain=0.0005, Contrast=0.1702
+Batch 600: Loss=0.7719, Sup=0.6380, Domain=0.0005, Contrast=0.1334
+
+--- Epoch 37: 2025-06-27 00:16:29.248337 ---
+Batch 100: Loss=0.9868, Sup=0.7806, Domain=0.0005, Contrast=0.2057
+Batch 200: Loss=0.8869, Sup=0.6788, Domain=0.0005, Contrast=0.2076
+Batch 300: Loss=0.8718, Sup=0.6911, Domain=0.0005, Contrast=0.1802
+Batch 400: Loss=0.8473, Sup=0.6514, Domain=0.0005, Contrast=0.1953
+Batch 500: Loss=0.9847, Sup=0.7442, Domain=0.0005, Contrast=0.2400
+Batch 600: Loss=0.7672, Sup=0.5730, Domain=0.0005, Contrast=0.1937
+
+--- Epoch 38: 2025-06-27 00:27:19.625780 ---
+Batch 100: Loss=0.7044, Sup=0.5750, Domain=0.0005, Contrast=0.1288
+Batch 200: Loss=1.0786, Sup=0.9138, Domain=0.0005, Contrast=0.1643
+Batch 300: Loss=0.8463, Sup=0.6447, Domain=0.0005, Contrast=0.2011
+Batch 400: Loss=0.8341, Sup=0.6782, Domain=0.0005, Contrast=0.1554
+Batch 500: Loss=0.7453, Sup=0.6137, Domain=0.0005, Contrast=0.1311
+Batch 600: Loss=0.9184, Sup=0.7524, Domain=0.0005, Contrast=0.1655
+
+--- Epoch 39: 2025-06-27 00:38:09.767408 ---
+Batch 100: Loss=0.8918, Sup=0.7359, Domain=0.0005, Contrast=0.1554
+Batch 200: Loss=0.9448, Sup=0.8084, Domain=0.0005, Contrast=0.1359
+Batch 300: Loss=0.9540, Sup=0.8111, Domain=0.0005, Contrast=0.1424
+Batch 400: Loss=0.9725, Sup=0.8424, Domain=0.0005, Contrast=0.1296
+Batch 500: Loss=0.7592, Sup=0.5960, Domain=0.0005, Contrast=0.1627
+Batch 600: Loss=0.8631, Sup=0.7281, Domain=0.0005, Contrast=0.1345
+
+--- Epoch 40: 2025-06-27 00:49:00.772782 ---
+Batch 100: Loss=0.6932, Sup=0.5747, Domain=0.0005, Contrast=0.1181
+Batch 200: Loss=0.9584, Sup=0.8163, Domain=0.0005, Contrast=0.1416
+Batch 300: Loss=0.8119, Sup=0.7004, Domain=0.0005, Contrast=0.1110
+Batch 400: Loss=0.7840, Sup=0.6836, Domain=0.0005, Contrast=0.0999
+Batch 500: Loss=0.9604, Sup=0.8387, Domain=0.0005, Contrast=0.1211
+Batch 600: Loss=0.8551, Sup=0.7188, Domain=0.0005, Contrast=0.1358
+
+--- Epoch 41: 2025-06-27 00:59:52.865022 ---
+Batch 100: Loss=1.0110, Sup=0.5992, Domain=0.0005, Contrast=0.4113
+Batch 200: Loss=0.8735, Sup=0.4129, Domain=0.0005, Contrast=0.4601
+Batch 300: Loss=1.0800, Sup=0.6095, Domain=0.0005, Contrast=0.4699
+Batch 400: Loss=1.0674, Sup=0.6258, Domain=0.0005, Contrast=0.4410
+Batch 500: Loss=1.1696, Sup=0.7412, Domain=0.0005, Contrast=0.4279
+Batch 600: Loss=0.8705, Sup=0.5045, Domain=0.0005, Contrast=0.3655
+
+--- Epoch 42: 2025-06-27 01:10:44.810436 ---
+Batch 100: Loss=0.9096, Sup=0.7646, Domain=0.0005, Contrast=0.1444
+Batch 200: Loss=0.8762, Sup=0.7602, Domain=0.0005, Contrast=0.1155
+Batch 300: Loss=0.7701, Sup=0.6429, Domain=0.0005, Contrast=0.1266
+Batch 400: Loss=0.8093, Sup=0.6934, Domain=0.0005, Contrast=0.1154
+Batch 500: Loss=0.7998, Sup=0.6804, Domain=0.0005, Contrast=0.1188
+Batch 600: Loss=0.8645, Sup=0.7517, Domain=0.0005, Contrast=0.1123
+
+--- Epoch 43: 2025-06-27 01:21:36.573664 ---
+Batch 100: Loss=0.9743, Sup=0.6006, Domain=0.0005, Contrast=0.3732
+Batch 200: Loss=0.7677, Sup=0.3993, Domain=0.0005, Contrast=0.3679
+Batch 300: Loss=1.0401, Sup=0.6938, Domain=0.0005, Contrast=0.3457
+Batch 400: Loss=1.0518, Sup=0.7516, Domain=0.0005, Contrast=0.2997
+Batch 500: Loss=0.9884, Sup=0.6789, Domain=0.0005, Contrast=0.3090
+Batch 600: Loss=1.0537, Sup=0.7335, Domain=0.0005, Contrast=0.3197
+
+--- Epoch 44: 2025-06-27 01:32:28.252150 ---
+Batch 100: Loss=0.8531, Sup=0.7274, Domain=0.0005, Contrast=0.1252
+Batch 200: Loss=0.7823, Sup=0.6614, Domain=0.0005, Contrast=0.1203
+Batch 300: Loss=0.8999, Sup=0.7817, Domain=0.0005, Contrast=0.1176
+Batch 400: Loss=0.9107, Sup=0.7994, Domain=0.0005, Contrast=0.1108
+Batch 500: Loss=0.8079, Sup=0.6588, Domain=0.0005, Contrast=0.1486
+Batch 600: Loss=0.7454, Sup=0.6273, Domain=0.0005, Contrast=0.1176
+
+--- Epoch 45: 2025-06-27 01:43:20.643512 ---
+Batch 100: Loss=0.8435, Sup=0.6546, Domain=0.0005, Contrast=0.1884
+Batch 200: Loss=0.9132, Sup=0.7438, Domain=0.0005, Contrast=0.1690
+Batch 300: Loss=0.8928, Sup=0.7115, Domain=0.0005, Contrast=0.1808
+Batch 400: Loss=0.7429, Sup=0.5444, Domain=0.0005, Contrast=0.1980
+Batch 500: Loss=0.6045, Sup=0.4193, Domain=0.0005, Contrast=0.1847
+Batch 600: Loss=0.8958, Sup=0.7312, Domain=0.0005, Contrast=0.1641
+
+--- Epoch 46: 2025-06-27 01:54:12.909515 ---
+Batch 100: Loss=0.8348, Sup=0.6241, Domain=0.0005, Contrast=0.2102
+Batch 200: Loss=0.8777, Sup=0.6758, Domain=0.0005, Contrast=0.2014
+Batch 300: Loss=0.7127, Sup=0.5163, Domain=0.0005, Contrast=0.1960
+Batch 400: Loss=0.8252, Sup=0.6476, Domain=0.0005, Contrast=0.1771
+Batch 500: Loss=1.0475, Sup=0.8290, Domain=0.0005, Contrast=0.2179
+Batch 600: Loss=0.7704, Sup=0.5283, Domain=0.0005, Contrast=0.2416
+
+--- Epoch 47: 2025-06-27 02:05:05.086234 ---
+Batch 100: Loss=0.8710, Sup=0.7386, Domain=0.0005, Contrast=0.1318
+Batch 200: Loss=0.6911, Sup=0.5459, Domain=0.0005, Contrast=0.1447
+Batch 300: Loss=0.7553, Sup=0.6253, Domain=0.0005, Contrast=0.1294
+Batch 400: Loss=0.9147, Sup=0.7605, Domain=0.0005, Contrast=0.1537
+Batch 500: Loss=0.7957, Sup=0.6399, Domain=0.0005, Contrast=0.1554
+Batch 600: Loss=0.8817, Sup=0.7388, Domain=0.0005, Contrast=0.1424
+
+--- Epoch 48: 2025-06-27 02:15:56.293028 ---
+Batch 100: Loss=1.0115, Sup=0.7176, Domain=0.0005, Contrast=0.2934
+Batch 200: Loss=0.9395, Sup=0.7111, Domain=0.0005, Contrast=0.2279
+Batch 300: Loss=0.8742, Sup=0.5816, Domain=0.0005, Contrast=0.2921
+Batch 400: Loss=0.9557, Sup=0.6740, Domain=0.0005, Contrast=0.2812
+Batch 500: Loss=1.0444, Sup=0.7551, Domain=0.0005, Contrast=0.2888
+Batch 600: Loss=1.0116, Sup=0.7120, Domain=0.0005, Contrast=0.2991
+
+--- Epoch 49: 2025-06-27 02:26:49.288753 ---
+Batch 100: Loss=0.6703, Sup=0.5404, Domain=0.0005, Contrast=0.1294
+Batch 200: Loss=0.8431, Sup=0.7101, Domain=0.0005, Contrast=0.1325
+Batch 300: Loss=0.8572, Sup=0.7292, Domain=0.0005, Contrast=0.1274
+Batch 400: Loss=0.9399, Sup=0.8064, Domain=0.0005, Contrast=0.1329
+Batch 500: Loss=0.8174, Sup=0.7182, Domain=0.0005, Contrast=0.0987
+Batch 600: Loss=0.7472, Sup=0.6129, Domain=0.0005, Contrast=0.1338
+
+--- Epoch 50: 2025-06-27 02:37:41.771949 ---
+Batch 100: Loss=0.8170, Sup=0.6846, Domain=0.0005, Contrast=0.1319
+Batch 200: Loss=0.6785, Sup=0.5715, Domain=0.0005, Contrast=0.1065
+Batch 300: Loss=0.5239, Sup=0.4281, Domain=0.0005, Contrast=0.0952
+Batch 400: Loss=0.9179, Sup=0.8318, Domain=0.0005, Contrast=0.0855
+Batch 500: Loss=0.7827, Sup=0.6762, Domain=0.0005, Contrast=0.1060
+Batch 600: Loss=0.6381, Sup=0.5286, Domain=0.0005, Contrast=0.1090
