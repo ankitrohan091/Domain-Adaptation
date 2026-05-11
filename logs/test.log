@@ -1,4 +1,4 @@
---- Test Run: 2025-06-26 10:29:00.640131 ---
+--- Test Run: 2026-04-26 10:29:00.640131 ---
 Model: checkpoints/da_raw_epoch_10.pth
 Image: ac517380-00000000.jpg, Detections: 36
 Image: ac56c836-bdabca21.jpg, Detections: 62
@@ -2001,7 +2001,7 @@ Image: ff88670c-e2a4a167.jpg, Detections: 74
 Image: ffdde79c-2c0d6a04.jpg, Detections: 38
 Image: fffc7bba-f05de9f5.jpg, Detections: 34  #on model trained for 10 epochs
 
---- Test Run: 2025-06-27 15:56:52.269092 ---  #on foggy mages
+--- Test Run: 2026-04-27 15:56:52.269092 ---  #on foggy mages
 Model: checkpoints/da_raw_epoch_50.pth
 Image: 0289eba3-3b2c545e.jpg, Detections: 9
 Image: 04488604-72f099d0.jpg, Detections: 22
@@ -2134,7 +2134,7 @@ Image: b0de1dff-70e80c1f.jpg, Detections: 28
 Image: b1394597-d11233e6.jpg, Detections: 16
 Image: b1585304-878863dd.jpg, Detections: 15
 
---- Test Run: 2025-06-27 16:53:01.530162 ---
+--- Test Run: 2026-04-27 16:53:01.530162 ---
 Model: checkpoints/da_raw_epoch_50.pth
 Image: ac517380-00000000.jpg, Detections: 12
 Image: ac56c836-bdabca21.jpg, Detections: 35
@@ -4136,3 +4136,22 @@ Image: ff88670c-2ee39cbf.jpg, Detections: 31
 Image: ff88670c-e2a4a167.jpg, Detections: 35
 Image: ffdde79c-2c0d6a04.jpg, Detections: 15
 Image: fffc7bba-f05de9f5.jpg, Detections: 8
+
+--- Test Run: 2026-05-05 15:28:37.738324 ---
+Model: checkpoints/da_raw_epoch_51.pth
+
+--- Test Run: 2026-05-05 15:34:47.533873 ---
+Model: checkpoints/da_raw_epoch_50.pth
+Image: 00e9be89-00001650.jpg, Detections: 12
+
+--- Test Run: 2026-05-06 18:37:19.142277 ---
+Model: checkpoints/da_raw_epoch_50.pth
+
+--- Test Run: 2026-05-06 18:37:58.137485 ---
+Model: checkpoints/da_raw_epoch_50.pth
+Image: ac56c836-bdabca21.jpg, Detections: 35
+Image: ace9bf57-669189d2.jpg, Detections: 34
+Image: ae7bcd76-00000000.jpg, Detections: 19
+Image: aec7cd49-00000000.jpg, Detections: 25
+Image: af73f89e-fe3d0b6a.jpg, Detections: 25
+Image: b806d16d-00000000.jpg, Detections: 24

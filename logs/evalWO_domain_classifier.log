@@ -1,4 +1,4 @@
-     --- Evaluation Run: 2025-06-27 14:54:31.641167 ---
+     --- Evaluation Run: 2026-04-27 14:54:31.641167 ---
 Model: checkpoints/da_without_domain_classifier_raw_epoch_50.pth
 Processed 100 images
 Processed 200 images

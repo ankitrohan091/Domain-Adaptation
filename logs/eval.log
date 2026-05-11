@@ -1,4 +1,4 @@
---- Evaluation Run: 2025-06-26 08:40:28.375155 ---
+--- Evaluation Run: 2026-04-26 08:40:28.375155 ---
 Model: checkpoints/da_raw_epoch_10.pth
 Processed 100 images
 Processed 200 images
@@ -19,7 +19,7 @@ Class 3: AP@0.5 = 0.0455
 mAP@0.5: 0.1841
 mAP@[.5:.95]: 0.0877
 
---- Evaluation Run: 2025-06-27 11:03:58.728730 ---
+--- Evaluation Run: 2026-04-27 11:03:58.728730 ---
 Model: checkpoints/da_raw_epoch_50.pth
 Processed 100 images
 Processed 200 images
@@ -36,6 +36,26 @@ Final Recall: 0.5614
 Final F1 Score: 0.5870
 Class 1: AP@0.5 = 0.3485
 Class 2: AP@0.5 = 0.2791
-Class 3: AP@0.5 = 0.2134
-mAP@0.5: 0.2803
+mAP@0.5: 0.3138
 mAP@[.5:.95]: 0.1149  
+
+--- Evaluation Run: 2026-04-28 12:25:09.196820 ---
+Model: checkpoints/da_raw_epoch_100.pth
+Processed 100 images
+Processed 200 images
+Processed 300 images
+Processed 400 images
+Processed 500 images
+Processed 600 images
+Processed 700 images
+Processed 800 images
+Processed 900 images
+Processed 1000 images
+Final Precision: 0.6496
+Final Recall: 0.5078
+Final F1 Score: 0.5700
+Class 1: AP@0.5 = 0.3790
+Class 2: AP@0.5 = 0.2021
+mAP@0.5: 0.2906
+mAP@[.5:.95]: 0.1011
+
